@@ -2,7 +2,7 @@
 
 [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) 的搜索过滤格式转换，GitHub Actions 每日自动同步。收录错漏请到源仓库提 issue/PR，这里不维护条目。
 
-- **[Anubis](https://github.com/Bishop-V/anubis)**：搜索结果过滤扩展，[安装](https://github.com/Bishop-V/anubis#install)
+- **[Anubis](https://github.com/Bishop-V/anubis)**：搜索结果过滤扩展。
 
 ## 订阅
 
