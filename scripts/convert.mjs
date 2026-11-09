@@ -13,7 +13,7 @@ const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const csvPath = process.argv[2] ?? join(root, 'data', 'blogs-original.csv');
 const outDir = process.argv[3] ?? join(root, 'out');
 
-const REPO = 'https://github.com/timqian/chinese-independent-blogs';
+const REPO = 'https://github.com/miaofange/chinese-independent-blogs-anubis';
 const TAG_ID = 'cn-blog';
 const TAG_LABEL = '独立博客';
 const TAG_COLOUR = '#a33f2e';

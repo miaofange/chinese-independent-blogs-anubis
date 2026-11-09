@@ -6,11 +6,11 @@
 
 **Anubis 用户**（设置 → 列表 → 添加列表，或点一键订阅）：
 
-- 订阅链接：`https://bishop-v.github.io/anubis/subscribe?url=<本仓库 raw 地址的 URL 编码>&name=中文独立博客`（TODO：发布后把 raw 地址填入）
+- [一键订阅（Anubis）](https://bishop-v.github.io/anubis/subscribe?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmiaofange%2Fchinese-independent-blogs-anubis%2Fmain%2Fout%2Fchinese-independent-blogs.anubis&name=%E4%B8%AD%E6%96%87%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2)
 - 或手动把列表地址粘贴进 **Settings → Lists → Add a list**：
-  `https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/out/chinese-independent-blogs.anubis`
+  https://raw.githubusercontent.com/miaofange/chinese-independent-blogs-anubis/main/out/chinese-independent-blogs.anubis
 
-**uBlacklist 用户**：订阅 `out/chinese-independent-blogs.txt`（高亮规则）。
+**uBlacklist 用户**：订阅 [out/chinese-independent-blogs.txt](https://raw.githubusercontent.com/miaofange/chinese-independent-blogs-anubis/main/out/chinese-independent-blogs.txt)（高亮规则）。
 
 ## 内容与反馈
 
