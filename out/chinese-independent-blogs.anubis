@@ -1,0 +1,1593 @@
+! name: 中文独立博客
+! description: 给 timqian/chinese-independent-blogs 收录的中文独立博客加标签。数据每日自动同步。
+! author: 中文独立博客 contributors (MIT)
+! homepage: https://github.com/timqian/chinese-independent-blogs
+! license: MIT
+! expires: 1 day
+! avatar: #a33f2e
+! tag: cn-blog | 独立博客 | #a33f2e | 中文个人独立博客
+
+$site=t9t.io,tag=cn-blog # 透明创业实验
+$site=ruanyifeng.com,tag=cn-blog # 阮一峰的网络日志
+$site=coolshell.cn,tag=cn-blog # 酷 壳 – CoolShell
+$site=zhangxinxu.com,tag=cn-blog # 张鑫旭-鑫空间-鑫生活
+$site=time-friend.com,tag=cn-blog # Time Friend
+$site=xiabingbao.com,tag=cn-blog # 蚊子前端博客
+$site=diygod.cc,tag=cn-blog # DIYGod - 写代码是热爱，写到世界充满爱
+$site=macshuo.com,tag=cn-blog # MacTalk-池建强的随想录
+$site=shrekshao.github.io,tag=cn-blog # ShrekShao
+$site=blog.codingnow.com,tag=cn-blog # 云风的 BLOG
+$site=reorx.com,tag=cn-blog # Reorx’s Forge
+$site=zddhub.com,tag=cn-blog # ZDDHUB 的博客
+$site=phodal.com,tag=cn-blog # 全栈应用开发:精益实践
+$site=zmrenwu.com,tag=cn-blog # 追梦人物的博客
+$site=piglei.com,tag=cn-blog # Python 工匠
+$site=windard.com,tag=cn-blog # 但行好事，莫问前程
+$site=lichong.work,tag=cn-blog # Ric's Blog
+$site=luolei.org,tag=cn-blog # 罗磊的独立博客
+$site=dfine.tech,tag=cn-blog # 阁子
+$site=daimajia.com,tag=cn-blog # 代码家
+$site=kymjs.com,tag=cn-blog # 开源实验室
+$site=droidyue.com,tag=cn-blog # 技术小黑屋
+$site=vzardlloo.github.io,tag=cn-blog # vzard's blog
+$site=rowkey.cn,tag=cn-blog # 后端技术杂谈
+$site=blog.lui8.cn,tag=cn-blog # zhonger 前端开发者，喜爱运维管理
+$site=blog.lilydjwg.me,tag=cn-blog # 依云's Blog
+$site=hundren.github.io,tag=cn-blog # zgh's Blog
+$site=xiuer.medium.com,tag=cn-blog # 朽儿
+$site=arminli.com,tag=cn-blog # INTJer
+$site=hintsnet.com,tag=cn-blog # 思圆笔记
+$site=lvdawei.com,tag=cn-blog # 吕大卫的官方网站
+$site=toweave.github.io,tag=cn-blog # 前端工程师 Toweave
+$site=mout.me,tag=cn-blog # MouT.me
+$site=dumplingbao.github.io,tag=cn-blog # diss带码
+$site=greatdk.com,tag=cn-blog # 王登科-DK博客
+$site=chai2010.cn,tag=cn-blog # chai2010 的博客
+$site=cnfeat.com,tag=cn-blog # 笨方法学写作
+$site=jimmysong.io,tag=cn-blog # 云原生
+$site=hawstein.com,tag=cn-blog # Hawstein's Blog
+$site=skywind.me,tag=cn-blog # Skywind Inside
+$site=shuizilong.com,tag=cn-blog # 某岛
+$site=chenshake.com,tag=cn-blog # 陈沙克日志
+$site=chinese.catchen.me,tag=cn-blog # Cat in Chinese
+$site=lutaonan.com,tag=cn-blog # Randy's Blog
+$site=xiaozhou.net,tag=cn-blog # iTimothy
+$site=ideawu.net,tag=cn-blog # idea's blog
+$site=xiaix.me,tag=cn-blog # xiaix's Blog
+$site=teddy-chen-tw.blogspot.com,tag=cn-blog # 搞笑談軟工
+$site=blog.miniasp.com,tag=cn-blog # The Will Will Web
+$site=techug.com,tag=cn-blog # 程序师
+$site=jdon.com,tag=cn-blog # 解道jdon.com
+$site=barretlee.com,tag=cn-blog # 小胡子哥的个人网站
+$site=jeffjade.com,tag=cn-blog # 晚晴幽草轩
+$site=immmmm.com,tag=cn-blog # 林小沐
+$site=wsgzao.github.io,tag=cn-blog # HelloDog
+$site=the5fire.com,tag=cn-blog # the5fire的技术博客
+$site=hfdavidyu.com,tag=cn-blog # 余海峯 David 物理喵 phycat
+$site=mercurychong.blogspot.com,tag=cn-blog # 水星投资理财
+$site=mrpm.cc,tag=cn-blog # Mr. PM 下午先生
+$site=iamsujie.com,tag=cn-blog # 人人都是产品经理——iamsujie
+$site=blog.turn.tw,tag=cn-blog # 轉個彎日誌
+$site=yuguo.us,tag=cn-blog # 余果的博客
+$site=blog.othree.net,tag=cn-blog # O3noBLOG
+$site=vivaxyblog.github.io,tag=cn-blog # Vivaxy's blog
+$site=blog.debuginn.com,tag=cn-blog # Debug客栈
+$site=isaced.com,tag=cn-blog # isaced
+$site=atjason.com,tag=cn-blog # Jason
+$site=blog.forecho.com,tag=cn-blog # forecho 的独立博客
+$site=jack-liu.com,tag=cn-blog # Jack Liu博客
+$site=geekplux.com,tag=cn-blog # GeekPlux
+$site=jysperm.me,tag=cn-blog # 王子亭的博客
+$site=egoist.proselog.com,tag=cn-blog # EGOIST 博客
+$site=yinwang.org,tag=cn-blog # 王垠的博客
+$site=weiwuhui.com,tag=cn-blog # 扯氮集
+$site=blog.yxwang.me,tag=cn-blog # Aiur · Zellux 的博客
+$site=lukefan.com,tag=cn-blog # 硕鼠的博客站
+$site=blog.xiayf.cn,tag=cn-blog # 黑·白
+$site=hufangyun.com,tag=cn-blog # 小猿大圣
+$site=jiongks.name,tag=cn-blog # 囧克斯 勾三股四
+$site=btorange.com,tag=cn-blog # 冰糖橙子
+$site=fengtang.com,tag=cn-blog # 冯唐博客
+$site=lucifr.com,tag=cn-blog # Lucifr
+$site=zhang.ge,tag=cn-blog # 张戈博客
+$site=blog.ichr.me,tag=cn-blog # ChrAlpha 的幻想乡（博客）
+$site=mifengtd.cn,tag=cn-blog # 褪墨・时间管理
+$site=cnberg.com,tag=cn-blog # 冰山一角
+$site=52nlp.cn,tag=cn-blog # 我爱自然语言处理
+$site=blog.devtang.com,tag=cn-blog # 唐巧的博客
+$site=onevcat.com,tag=cn-blog # OneV's Den
+$site=blog.ibireme.com,tag=cn-blog # Garan no dou
+$site=kenengba.com,tag=cn-blog # 可能吧
+$site=colobu.com,tag=cn-blog # 鸟窝
+$site=feihu.me,tag=cn-blog # libfeihu Blog
+$site=blog.niclin.tw,tag=cn-blog # Nic Lin's Blog
+$site=halfrost.com,tag=cn-blog # Halfrost's Field
+$site=limboy.me,tag=cn-blog # limboy's HQ
+$site=blog.sunnyxx.com,tag=cn-blog # sunnyxx的技术博客
+$site=xiangwangfeng.com,tag=cn-blog # 阿毛的蛋疼地
+$site=blog.kevinzhow.com,tag=cn-blog # Kevin Blog
+$site=blog.cnbang.net,tag=cn-blog # bang's blog
+$site=imtx.me,tag=cn-blog # I'm TualatriX
+$site=wujunze.com,tag=cn-blog # Wujunze's Blog
+$site=wwj718.github.io,tag=cn-blog # 夜行人
+$site=blog.est.im,tag=cn-blog # Est's Blog
+$site=hehuapei.com,tag=cn-blog # Wiken
+$site=zh.fyi,tag=cn-blog # 炸裂志
+$site=wocai.de,tag=cn-blog # kok的笔记本
+$site=wujingquan.com,tag=cn-blog # 搞搞震
+$site=jaredtao.github.io,tag=cn-blog # Qt进阶之路-涛哥的博客
+$site=persumi.com,tag=cn-blog # Fred Wu's Blog
+$site=youngxhui.top,tag=cn-blog # ISLAND
+$site=blog.heysh.xyz,tag=cn-blog # 贺叶霜的树
+$site=frytea.com,tag=cn-blog # Frytea's Blog
+$site=lailin.xyz,tag=cn-blog # Mohuishou's Blog
+$site=xiang578.com,tag=cn-blog # 算法花园
+$site=1a23.com,tag=cn-blog # 1A23 Studio
+$site=jiajunhuang.com,tag=cn-blog # Jiajun的编程随想
+$site=stackoverflow.wiki,tag=cn-blog # 贼拉正经的技术博客
+$site=blog.p2hp.com,tag=cn-blog # Lenix Blog
+$site=ixiqin.com,tag=cn-blog # 西秦公子
+$site=hateonion.me,tag=cn-blog # OnionTalk
+$site=nicksxs.me,tag=cn-blog # Nicksxs's Blog
+$site=capallen.top,tag=cn-blog # Allen's Blog
+$site=yihui.name,tag=cn-blog # 谢益辉
+$site=blog.farmostwood.net,tag=cn-blog # 木遥的窗子
+$site=changhai.org,tag=cn-blog # 卢昌海的个人主页
+$site=ssshooter.com,tag=cn-blog # UsubeniFantasy
+$site=alxddh.github.io,tag=cn-blog # Alexander D Huang's Blog
+$site=kaix.in,tag=cn-blog # KAIX.IN
+$site=ii74.com,tag=cn-blog # 朝舞
+$site=matrix67.com,tag=cn-blog # Matrix67: The Aha Moments
+$site=livid.v2ex.com,tag=cn-blog # Livid
+$site=imhanjm.com,tag=cn-blog # hanjm's Blog
+$site=kingname.info,tag=cn-blog # 谢乾坤-青南
+$site=seo.g2soft.net,tag=cn-blog # SEO 网站优化及网站推广
+$site=igaojin.me,tag=cn-blog # 高金的博客
+$site=keelii.com,tag=cn-blog # 臨池不輟
+$site=xilidou.com,tag=cn-blog # 犀利豆的博客
+$site=kuricat.com,tag=cn-blog # Kuricat's Blog
+$site=h-cheung.gitlab.io,tag=cn-blog # Howard Cheung
+$site=tingtalk.me,tag=cn-blog # 庭说
+$site=charlesliuyx.github.io,tag=cn-blog # 遥行 Gofurther 技术&ML&BC博客
+$site=zkqiang.cn,tag=cn-blog # 张凯强的博客
+$site=blog.xulihang.me,tag=cn-blog # xulihang's blog
+$site=hiwannz.com,tag=cn-blog # 见字如面
+$site=102no.com,tag=cn-blog # 把酒诗代码
+$site=mebtte.com,tag=cn-blog # NotJustCode
+$site=blog.joouis.com,tag=cn-blog # 江边的旱鸭子
+$site=devashen.com,tag=cn-blog # 追风之影
+$site=blog.hanschen.site,tag=cn-blog # HansChen 的博客
+$site=iphysresearch.github.io,tag=cn-blog # IPhysResearch
+$site=v3u.cn,tag=cn-blog # 刘悦的技术博客
+$site=desvl.xyz,tag=cn-blog # Desvl's blog
+$site=hkvision.cn,tag=cn-blog # HaoKunT的博客
+$site=deepzz.com,tag=cn-blog # Deepzz's Blog
+$site=lucifer.ren,tag=cn-blog # lucifer的网络博客
+$site=glumes.com,tag=cn-blog # 音视频开发进阶
+$site=josherich.me,tag=cn-blog # Josherich的博客
+$site=xzhsh.ch,tag=cn-blog # Zhshch`s Blog
+$site=blog.fsky7.com,tag=cn-blog # FlyingSky's Blog
+$site=jiyang00.cn,tag=cn-blog # 己羊的梦
+$site=anran758.github.io,tag=cn-blog # anran758's blog
+$site=ioiox.com,tag=cn-blog # 思有云
+$site=axionl.me,tag=cn-blog # 初等記憶體
+$site=darmau.co,tag=cn-blog # 可可托海没有海
+$site=cxyxiaowu.com,tag=cn-blog # 五分钟学算法
+$site=jyzhu.top,tag=cn-blog # Tianke Youke
+$site=zofun.github.io,tag=cn-blog # 爱写代码的小书童
+$site=yanliang.cool,tag=cn-blog # yanliang's blog
+$site=ttalk.im,tag=cn-blog # Teach Talk
+$site=amonxu.com,tag=cn-blog # 逐鹿IT-猛猛如玉
+$site=blog.xiaoi.me,tag=cn-blog # Xiaoi's Blog
+$site=xlbd.me,tag=cn-blog # 小蘿蔔丁
+$site=yazhen.me,tag=cn-blog # Drcus-迪卡
+$site=vincentqin.tech,tag=cn-blog # Realcat
+$site=blog.hbsun.top,tag=cn-blog # 悬铃木
+$site=lianyongxing.github.io,tag=cn-blog # LIANYONGXING的博客
+$site=leovan.me,tag=cn-blog # 范叶亮的博客
+$site=ifttl.com,tag=cn-blog # 自由人的 BLOG
+$site=webview.tech,tag=cn-blog # WEB VIEW
+$site=objcoding.com,tag=cn-blog # 后端进阶
+$site=yuexun.me,tag=cn-blog # Yuexun's Blog
+$site=old-panda.com,tag=cn-blog # Panda Home
+$site=iyouhun.com,tag=cn-blog # 游魂博客
+$site=lanka.cn,tag=cn-blog # 蓝卡
+$site=blog.fxcdev.com,tag=cn-blog # 自学路漫漫
+$site=codesky.me,tag=cn-blog # CodeSky
+$site=xsky.me,tag=cn-blog # 空之领域
+$site=claude-ray.github.io,tag=cn-blog # Claude's Blog
+$site=lepture.com,tag=cn-blog # Just lepture
+$site=quaily.com,tag=cn-blog # Lyric
+$site=iphyer.github.io,tag=cn-blog # 桑弧蓬矢射四方
+$site=sword.studio,tag=cn-blog # 杂货屋
+$site=notbucai.com,tag=cn-blog # 不才's blog
+$site=blog.lacia.cn,tag=cn-blog # 沐凉
+$site=idealclover.top,tag=cn-blog # idealclover
+$site=blog.ixk.me,tag=cn-blog # 青空之蓝
+$site=wukaikai.tech,tag=cn-blog # 吴凯凯的博客
+$site=blog.imyan.ren,tag=cn-blog # 炎忍的博客
+$site=gylidian.js.org,tag=cn-blog # 啊哈呵嗨的博客
+$site=kanchuan.com,tag=cn-blog # 陈看川博客
+$site=z16388.top,tag=cn-blog # 崎径 其镜赵安琪的博客
+$site=chawyehsu.com,tag=cn-blog # The Art of Chawye Hsu
+$site=mednoter.com,tag=cn-blog # 吕小荣的网志
+$site=gaficat.com,tag=cn-blog # 加菲猫的创客工坊
+$site=hutusi.com,tag=cn-blog # 胡涂说
+$site=jiayuanzhang.com,tag=cn-blog # 张佳圆
+$site=965.one,tag=cn-blog # 四公子的剑
+$site=zsythink.net,tag=cn-blog # 朱双印
+$site=huhuhang.com,tag=cn-blog # HUHUHANG
+$site=dongwm.com,tag=cn-blog # 小明明s à domicile
+$site=lfhacks.com,tag=cn-blog # LFhacks.com
+$site=taoweng.site,tag=cn-blog # 桃园
+$site=oldj.net,tag=cn-blog # oldj's blog
+$site=hwdef.org,tag=cn-blog # 以梦喂马
+$site=zdyxry.github.io,tag=cn-blog # Yiran's Blog
+$site=shen.bioitee.com,tag=cn-blog # 沈维燕的个人博客
+$site=blog.guowenfh.com,tag=cn-blog # 三省吾身丶丶
+$site=huiweishijie.com,tag=cn-blog # 回未视戒
+$site=itbob.cn,tag=cn-blog # ITBOB'S BLOG
+$site=blog.mute-g.com,tag=cn-blog # 老高的博客
+$site=callmesoul.cn,tag=cn-blog # CallMeSoul
+$site=laogongshuo.com,tag=cn-blog # 龚成博客
+$site=blog.diqigan.cn,tag=cn-blog # Seven's blog
+$site=kinnoukabokudo.com,tag=cn-blog # 木土金王可
+$site=codewoody.com,tag=cn-blog # 治部少辅
+$site=blog.crimx.com,tag=cn-blog # CRIMX Blog
+$site=xiaophy.com,tag=cn-blog # 小非的物理小站
+$site=michael728.github.io,tag=cn-blog # Michael翔
+$site=dosk.win,tag=cn-blog # Dosk 技术站
+$site=lzhpo.com,tag=cn-blog # 会打篮球的程序猿
+$site=blog.lushuyu.site,tag=cn-blog # Lu Shuyu
+$site=xiejingyang.com,tag=cn-blog # Xieisabug
+$site=zhengzexin.com,tag=cn-blog # 郑泽鑫的博客
+$site=wyr.me,tag=cn-blog # 轶哥博客
+$site=blog.vadxq.com,tag=cn-blog # 清竹茶馆博客
+$site=scottyeung.top,tag=cn-blog # YeungYeah 的乱写地
+$site=larscheng.com,tag=cn-blog # LarsCheng
+$site=lanhao.name,tag=cn-blog # 开发者小蓝
+$site=blog.singee.me,tag=cn-blog # Origin
+$site=articles.singee.me,tag=cn-blog # Bryan's Blog
+$site=mazhuang.org,tag=cn-blog # 码志
+$site=bmqy.net,tag=cn-blog # 北门清燕
+$site=hijiangtao.github.io,tag=cn-blog # Joe's Blog
+$site=yuechuanx.top,tag=cn-blog # Yuechuan Blog
+$site=bigdata.bihell.com,tag=cn-blog # 大数据最佳实践
+$site=jansora.com,tag=cn-blog # Jansora
+$site=z.arlmy.me,tag=cn-blog # 素生
+$site=wikimoe.com,tag=cn-blog # 维基萌
+$site=blog.strongwong.top,tag=cn-blog # strongwong's Blog
+$site=paugram.com,tag=cn-blog # 保罗的小宇宙
+$site=typeblog.net,tag=cn-blog # typeblog
+$site=jhuo.ca,tag=cn-blog # HuoJu's BLOG
+$site=blog.mikeoperfect.com,tag=cn-blog # MikeoPerfect's Diary
+$site=kai666666.top,tag=cn-blog # 橙光笔记
+$site=lichuanyang.top,tag=cn-blog # Mobility
+$site=notlsd.github.io,tag=cn-blog # not LSD
+$site=beijiu.ink,tag=cn-blog # 杯酒故事
+$site=blog.imalan.cn,tag=cn-blog # 失眠海峡
+$site=duyaoss.com,tag=cn-blog # DuyaoSS
+$site=blog.k8s.li,tag=cn-blog # 木子
+$site=wuxinhua.com,tag=cn-blog # wuxinhua's Blog
+$site=bobby285271.top,tag=cn-blog # Dasyatis
+$site=blog.xuedingmiao.com,tag=cn-blog # 薛定喵君的博客
+$site=innei.ren,tag=cn-blog # 静かな森
+$site=tumutanzi.com,tag=cn-blog # 土木坛子
+$site=seis-jun.xyz,tag=cn-blog # seisamuse
+$site=javatang.com,tag=cn-blog # 爪哇堂
+$site=lujun9972.win,tag=cn-blog # 暗无天日
+$site=refined-x.com,tag=cn-blog # 前端路上
+$site=lpime.cn,tag=cn-blog # Ryan_naiquan
+$site=jw1.dev,tag=cn-blog # Jacky's Blog
+$site=wangxin.io,tag=cn-blog # 王欣的博客
+$site=jartto.wang,tag=cn-blog # Jartto's Blog
+$site=scarsu.com,tag=cn-blog # ScarSu的个人网站
+$site=blog.lucien.ink,tag=cn-blog # Lucien's Blog
+$site=blog.pushihao.com,tag=cn-blog # 披萨盒的博客
+$site=ouorz.com,tag=cn-blog # TonyHe 的博客
+$site=hxkj.vip,tag=cn-blog # HashTang 的个人空间
+$site=liqiang.io,tag=cn-blog # 格物致知
+$site=knightyun.github.io,tag=cn-blog # 黄琦雲的博客
+$site=yangzhiping.com,tag=cn-blog # 阳志平的网志
+$site=chen.fun,tag=cn-blog # 陈华
+$site=raincorn.top,tag=cn-blog # Chores
+$site=guyu.me,tag=cn-blog # 顾宇的研习笔记
+$site=blog.skrskrskrskr.com,tag=cn-blog # 小熊写字的地方
+$site=cyhone.com,tag=cn-blog # 编程沉思录
+$site=liesauer.net,tag=cn-blog # LiesAuer's Blog
+$site=blogofmusic.com,tag=cn-blog # Blog of Music
+$site=byvoid.com,tag=cn-blog # Beyond the Void
+$site=wangyi.ai,tag=cn-blog # Yi's blog
+$site=1byte.io,tag=cn-blog # 1 Byte
+$site=inevitable.tech,tag=cn-blog # Inevitable
+$site=bmpi.dev,tag=cn-blog # BMPI
+$site=61.life,tag=cn-blog # 61's life
+$site=wiki-power.com,tag=cn-blog # Power's Wiki
+$site=tripper.press,tag=cn-blog # 瞬间 Press
+$site=lulalap.com,tag=cn-blog # 未知的世界
+$site=shingle.me,tag=cn-blog # shingle's blog
+$site=lenciel.com,tag=cn-blog # @Lenciel
+$site=chriszheng.science,tag=cn-blog # M-x Chris-An-Emacser
+$site=blog.star7th.com,tag=cn-blog # 第七星尘的独立博客
+$site=chinomars.github.io,tag=cn-blog # Chino's Workspace
+$site=blog.kurryluo.com,tag=cn-blog # KurryLuo's Website
+$site=chattymoney.com,tag=cn-blog # chattymoney(跟我一起来谈钱)
+$site=tcpgnl.com,tag=cn-blog # TCPGNL
+$site=weirane.github.io,tag=cn-blog # weirane's blog
+$site=blog.joway.io,tag=cn-blog # Joway's Blog
+$site=mabbs.github.io,tag=cn-blog # Mayx的博客
+$site=rapiz.me,tag=cn-blog # Rapiz's Blog
+$site=idle.systems,tag=cn-blog # Ground Oddity
+$site=jitao.tech,tag=cn-blog # 姬涛的个人网站
+$site=blog.shuziyimin.org,tag=cn-blog # 数字移民博客
+$site=bobjiang.com,tag=cn-blog # Bob Jiang's Blog
+$site=plausistory.blog,tag=cn-blog # 清言
+$site=wangyulue.com,tag=cn-blog # 王二的个人网站
+$site=earture.org,tag=cn-blog # 凉天客栈
+$site=moe48.moe,tag=cn-blog # 杏子的书架
+$site=blog.9hz.club,tag=cn-blog # 近视眼逛博客
+$site=geektcp.com,tag=cn-blog # 狂奔的骆驼
+$site=leftshadow.com,tag=cn-blog # 影留
+$site=wzyboy.im,tag=cn-blog # wzyboy's blog
+$site=beyondstars.xyz,tag=cn-blog # beyond stars
+$site=ipotato.me,tag=cn-blog # iPotato
+$site=blog.vvzero.com,tag=cn-blog # 三帛的世界
+$site=blog.hclonely.com,tag=cn-blog # HCLonely
+$site=geofftools.cn,tag=cn-blog # 樵夫的小站
+$site=sund.site,tag=cn-blog # 电波障害
+$site=tomotoes.com,tag=cn-blog # 一个坏掉的番茄
+$site=zhangdinghao.cn,tag=cn-blog # DHTalk's Blog
+$site=weisenhui.top,tag=cn-blog # shwei's blog
+$site=miaotony.xyz,tag=cn-blog # MiaoTony's Blog
+$site=ryank231231.top,tag=cn-blog # ryank231231.blog
+$site=rivennero.com,tag=cn-blog # RivenNero's Studio
+$site=juemuren4449.com,tag=cn-blog # 掘墓人的小铲子
+$site=hwchiu.com,tag=cn-blog # Hwchiu Learning Note
+$site=blog.jiejiss.com,tag=cn-blog # JieJiSS' Blog
+$site=thewanderingpotato.github.io,tag=cn-blog # the wandering potato 出遊的土豆
+$site=jicki.cn,tag=cn-blog # 小炒肉
+$site=evennotes.cn,tag=cn-blog # 逸文笔记EvenNotes
+$site=justpic.org,tag=cn-blog # 桑河一榆
+$site=codechina.org,tag=cn-blog # Tinyfool的中文Blog
+$site=muyun.work,tag=cn-blog # Muyun的杂谈
+$site=wineso.me,tag=cn-blog # 琚致远
+$site=aceact.com,tag=cn-blog # 老张说思路
+$site=wiki.eryajf.net,tag=cn-blog # 二丫讲梵
+$site=wulu.zone,tag=cn-blog # Wulu's Blog
+$site=ai.renyuzhuo.cn,tag=cn-blog # RAIS
+$site=tsanfer.com,tag=cn-blog # Tsanfer's Blog
+$site=l1yu.com,tag=cn-blog # L1Yu's Blog - 蓝色的博客
+$site=ljason.cn,tag=cn-blog # 野生程序猴子
+$site=mianao.info,tag=cn-blog # 不吐不快
+$site=blog.feimind.xyz,tag=cn-blog # 海布里天井
+$site=jayzangwill.github.io,tag=cn-blog # Jay Zangwill的博客
+$site=dawner.top,tag=cn-blog # Dawner
+$site=yanhang.me,tag=cn-blog # 涯余
+$site=frost-lee.github.io,tag=cn-blog # Frost's Blog
+$site=kerminate.me,tag=cn-blog # Kerminate's Blog
+$site=blog.mk1.io,tag=cn-blog # Ray's Blog
+$site=blog.chungzh.cn,tag=cn-blog # ChungZH 的小窝
+$site=guhub.cn,tag=cn-blog # 考拉咖啡馆
+$site=lineuman.github.io,tag=cn-blog # Lineuman's Blog
+$site=tinywan.com,tag=cn-blog # Tinywan 杂货摊
+$site=zsqk.github.io,tag=cn-blog # news view
+$site=nalaginrut.com,tag=cn-blog # Nala Ginrut's Blog
+$site=i.lckiss.com,tag=cn-blog # 伪斜杠青年
+$site=numb.tech,tag=cn-blog # 双绞麻痹
+$site=zedex.cn,tag=cn-blog # ZedeX
+$site=blog.gavln.com,tag=cn-blog # Gavin notes
+$site=twistoy.cn,tag=cn-blog # TwIStOy
+$site=zuoyu.top,tag=cn-blog # 一杯茶
+$site=blog.aeilot.top,tag=cn-blog # Louis Aeilot's Blog
+$site=clckblog.space,tag=cn-blog # CLCK's Space
+$site=yunyoujun.cn,tag=cn-blog # 云游君的小站
+$site=ybusad.com,tag=cn-blog # 骁之屋 - 孙天骁的随身记录个人网站
+$site=wusiyu.me,tag=cn-blog # WuSiYu Blog
+$site=blog.zhengzi.me,tag=cn-blog # 政子的博客
+$site=feidaoboke.com,tag=cn-blog # 飞刀博客
+$site=physixfan.com,tag=cn-blog # 宇宙的心弦
+$site=cyril3.github.io,tag=cn-blog # Bingwhispers
+$site=ralf.ren,tag=cn-blog # PlayerCatboy
+$site=neroht.com,tag=cn-blog # Nero的博客
+$site=mutoo.im,tag=cn-blog # 木匣子
+$site=ourai.ws,tag=cn-blog # 欧雷流
+$site=victrid.dev,tag=cn-blog # VictriD's blog
+$site=asazero.blogspot.com,tag=cn-blog # 挥舞思绪的博客
+$site=ddadaal.me,tag=cn-blog # ddadaal.me
+$site=wuzhuti.cn,tag=cn-blog # 无主题博客
+$site=dbarobin.com,tag=cn-blog # 区块链罗宾
+$site=tcxx.info,tag=cn-blog # 甜欣屋
+$site=luyuhuang.github.io,tag=cn-blog # Luyu Huang's Tech Blog
+$site=feizhaojun.com,tag=cn-blog # 费照君个人网站
+$site=blog.xiaket.org,tag=cn-blog # 年华转瞬
+$site=blog.ponder.work,tag=cn-blog # 逸思杂陈
+$site=blog.wangxuan.name,tag=cn-blog # 王玄的博客
+$site=blog.gotocoding.com,tag=cn-blog # 重归混沌的BLOG
+$site=mihu.live,tag=cn-blog # 旁逸斜出
+$site=tianheg.co,tag=cn-blog # 一大加贝
+$site=jingyig01.github.io,tag=cn-blog # 四方之云
+$site=fourhappylions.com,tag=cn-blog # 四喜丸子
+$site=wandoer.com,tag=cn-blog # 豌豆(没有荚)
+$site=chegva.com,tag=cn-blog # 安志合的学习博客
+$site=leonson.me,tag=cn-blog # 浮云游子意
+$site=blog.happyhack.io,tag=cn-blog # HappyHack
+$site=blog.ofo.moe,tag=cn-blog # Jiansing's Blog
+$site=owomoe.net,tag=cn-blog # 皮皮凛基地
+$site=blog.ljcbaby.top,tag=cn-blog # Ljcbaby 的 网络小屋
+$site=velasx.com,tag=cn-blog # Velas电波站
+$site=yjalifebook.com,tag=cn-blog # 不点语书
+$site=zu1k.com,tag=cn-blog # zu1k
+$site=jalenz.cn,tag=cn-blog # Jalen
+$site=gowhich.com,tag=cn-blog # Gowhich
+$site=blog.yangyk.com,tag=cn-blog # 杨永康的个人博客
+$site=pt.plus,tag=cn-blog # Platform Thinking +
+$site=peon.top,tag=cn-blog # 愤怒的蜂鸟
+$site=mathpretty.com,tag=cn-blog # 文艺数学君
+$site=luozhiyun.com,tag=cn-blog # luozhiyun`s Blog 我的技术分享
+$site=frank.hk,tag=cn-blog # 人生這部戲
+$site=cjh0613.com,tag=cn-blog # 地球人的空间
+$site=blog.dugulingping.com,tag=cn-blog # 独孤伶俜
+$site=maxoxo.me,tag=cn-blog # maxOS
+$site=yuukoamamiya.github.io,tag=cn-blog # Yuko's Blog
+$site=jubeny.com,tag=cn-blog # 渚碧
+$site=lhymwm.github.io,tag=cn-blog # 以梦为马
+$site=jiayiliu.me,tag=cn-blog # Jiayi Liu
+$site=blog.henix.info,tag=cn-blog # 遥远的街市
+$site=jefftay.com,tag=cn-blog # 按钮与磁带
+$site=musenxi.com,tag=cn-blog # 夜庭記
+$site=ngzhio.github.io,tag=cn-blog # Ngzhio's Blog
+$site=wsdjeg.net,tag=cn-blog # Eric's Blog
+$site=painso.com,tag=cn-blog # ephz3nt
+$site=xiaozhu.dev,tag=cn-blog # 小猪
+$site=blog.251.sh,tag=cn-blog # 251
+$site=luxianpo.com,tag=cn-blog # 卢贤泼的博客
+$site=xugaoxiang.com,tag=cn-blog # 迷途小书童
+$site=xuyisheng.top,tag=cn-blog # 徐宜生
+$site=scvoet.me,tag=cn-blog # Scvoet
+$site=diff.im,tag=cn-blog # Diff客旅日记
+$site=cdjax.com,tag=cn-blog # jax - 走在路上
+$site=zxs.io,tag=cn-blog # XINDOO的博客
+$site=geektutu.com,tag=cn-blog # 极客兔兔
+$site=geekzl.com,tag=cn-blog # 极客中心
+$site=chenshaowen.com,tag=cn-blog # 陈少文的博客
+$site=kubesphereio.com,tag=cn-blog # 一切皆有可能
+$site=geekplayers.com,tag=cn-blog # 极客玩家大白
+$site=atticuslab.com,tag=cn-blog # 堆栈酒馆
+$site=eriqua.com,tag=cn-blog # 爱里瓜
+$site=yishi.io,tag=cn-blog # 王一石
+$site=blog.triplez.cn,tag=cn-blog # TripleZ's Blog
+$site=ambroseren.github.io,tag=cn-blog # AmbroseRen
+$site=tingfei.space,tag=cn-blog # Fat Blog - 挺肥的博客
+$site=tony-bro.com,tag=cn-blog # 托尼哥的玩具博客
+$site=blog.lxdlam.com,tag=cn-blog # Ramen's Box
+$site=bubuzou.com,tag=cn-blog # 步步走前端
+$site=holmesian.org,tag=cn-blog # Holmesian Blog
+$site=jasonkayzk.github.io,tag=cn-blog # 张小凯的博客
+$site=dingzeyu.li,tag=cn-blog # DLog - 李丁的博客
+$site=blog.jimmylv.info,tag=cn-blog # JimmyLv@吕立青的博客
+$site=muyunyun.cn,tag=cn-blog # 牧云云的博客
+$site=qiangwaikan.com,tag=cn-blog # 墙外看的博客
+$site=kirito41dd.cn,tag=cn-blog # kirito的博客
+$site=herrkaefer.com,tag=cn-blog # herrkaefer
+$site=awsl.blog,tag=cn-blog # Ťhinking Null
+$site=teobler.com,tag=cn-blog # teobler
+$site=vmaig.com,tag=cn-blog # Vmaig
+$site=yulisay.com,tag=cn-blog # 魚立说
+$site=blog.winterchen.com,tag=cn-blog # winter's Blog
+$site=chengpeiquan.com,tag=cn-blog # 程沛权 - 养了三只猫
+$site=blog.othing.xyz,tag=cn-blog # yzqzss-一座桥在水上's Blog
+$site=blog.skyju.cc,tag=cn-blog # Terrarum::异世界丨居正博客
+$site=xiaosuiyin.com,tag=cn-blog # 小碎银
+$site=lihui.net,tag=cn-blog # Li Hui Blog
+$site=blog.186526.xyz,tag=cn-blog # 186526's Blog
+$site=enoch2090.me,tag=cn-blog # Enoch2090
+$site=shenyongfan.com,tag=cn-blog # 乌托邦是个理想国
+$site=anillc.cn,tag=cn-blog # Anillc's blog
+$site=moshou.me,tag=cn-blog # 墨守
+$site=thiscute.world,tag=cn-blog # This cute world
+$site=varyblog.cn,tag=cn-blog # 指尖上的梦想
+$site=shenzilong.cn,tag=cn-blog # 崮生 • 一些随笔 🎨
+$site=owent.net,tag=cn-blog # I'm OWenT
+$site=androidperformance.com,tag=cn-blog # Android Performance
+$site=nansey.me,tag=cn-blog # Nansey的博客
+$site=fanyi.news,tag=cn-blog # 翻译动态
+$site=blog.nodr.ink,tag=cn-blog # 没喝的
+$site=deepinvest.org,tag=cn-blog # 深度投资笔记
+$site=cyrusyip.org,tag=cn-blog # 叶寻的博客
+$site=blueskyxn.com,tag=cn-blog # 苍穹の下
+$site=blog.mayandev.top,tag=cn-blog # 明远的自留地
+$site=timemachine.icu,tag=cn-blog # TimeMachine Notes
+$site=blog.kuangjux.top,tag=cn-blog # 狂且的博客
+$site=5ime.cn,tag=cn-blog # I Am I
+$site=superpung.com,tag=cn-blog # Super Blog
+$site=leavesongs.com,tag=cn-blog # 离别歌
+$site=blog.cal1.cn,tag=cn-blog # crblog
+$site=evilcos.me,tag=cn-blog # EVILCOS
+$site=blog.lyunvy.top,tag=cn-blog # Lyunvy's Blog
+$site=blog.priewienv.me,tag=cn-blog # PRIEWIENV's blog
+$site=yystv.cn,tag=cn-blog # 游戏研究社
+$site=ksmeow.moe,tag=cn-blog # KSkun's Blog
+$site=kevinnan.org.cn,tag=cn-blog # Lucas's Blog
+$site=qq52o.me,tag=cn-blog # 沈唁志
+$site=2hu.net,tag=cn-blog # 二只老虎
+$site=fantalovelife.club,tag=cn-blog # Fanta's Blog
+$site=wangyikai.com,tag=cn-blog # 王宜楷工作室
+$site=saulnoble.github.io,tag=cn-blog # Saul's Space
+$site=junz.org,tag=cn-blog # Jun's Blog
+$site=wushuo.me,tag=cn-blog # Shuo's Blog
+$site=blog.plusplus7.com,tag=cn-blog # plusplus7's Blog
+$site=blog.fivest.one,tag=cn-blog # fivestone - 同一种调调
+$site=anthropology.fivest.one,tag=cn-blog # fieldnotes
+$site=blog.rxliuli.com,tag=cn-blog # rxliuli blog
+$site=zackwu.com,tag=cn-blog # 无辄的栈
+$site=markonreview.com,tag=cn-blog # Markon Review
+$site=kaopubear.top,tag=cn-blog # 思考问题的熊
+$site=gaoyuanshi.com,tag=cn-blog # 高原石博客
+$site=mghio.cn,tag=cn-blog # mghio
+$site=houye.xyz,tag=cn-blog # 侯爷的博客
+$site=riichiie.net,tag=cn-blog # Richie的时光机
+$site=astrianzheng.cn,tag=cn-blog # 本格异想录
+$site=lesofn.com,tag=cn-blog # 木小丰的博客
+$site=maxqiu.com,tag=cn-blog # Max_Qiu
+$site=nyan.im,tag=cn-blog # Frank's Weblog
+$site=robotkang.cc,tag=cn-blog # Robotkang
+$site=afoo.me,tag=cn-blog # 福强说 一个架构士的思考与沉淀
+$site=zhurongshuo.com,tag=cn-blog # 祝融说
+$site=wangjiezhe.com,tag=cn-blog # 如鱼饮水
+$site=wakzz.cn,tag=cn-blog # 祈雨的博客
+$site=liurongxing.com,tag=cn-blog # 刘荣星的博客
+$site=phuker.github.io,tag=cn-blog # Phuker's Blog
+$site=blog.chenjt.com,tag=cn-blog # 珒陶
+$site=kefan.me,tag=cn-blog # 董珂璠☕
+$site=amore.ink,tag=cn-blog # 述尔 - 一个产品经理的碎碎念
+$site=shoyu.top,tag=cn-blog # 芍芋之家
+$site=renny.ren,tag=cn-blog # 任峻宏的小站
+$site=bouquetrender.space,tag=cn-blog # 花束渲染
+$site=lorexxar.cn,tag=cn-blog # LoRexxar's Blog
+$site=blog.orange.tw,tag=cn-blog # Orange
+$site=lcx.cc,tag=cn-blog # Nuclear'Atk（核攻击）网络安全实验室
+$site=bboy.app,tag=cn-blog # bboysoul的博客
+$site=dantezy.xyz,tag=cn-blog # 一派胡言
+$site=museradio.net,tag=cn-blog # 灵感电台 - Jack's art hobby habitat
+$site=sulinehk.com,tag=cn-blog # sulinehk's blog
+$site=wuqiwen.cn,tag=cn-blog # 瘦人志
+$site=justzht.com,tag=cn-blog # JustZht
+$site=mokeyjay.com,tag=cn-blog # Mokeyjay's Blog
+$site=qq.md,tag=cn-blog # 叶开博客
+$site=shiau.xyz,tag=cn-blog # Shiau
+$site=blog.murphyyi.com,tag=cn-blog # 墨菲易
+$site=codeyang.pages.dev,tag=cn-blog # 一只会敲代码的Sheep
+$site=blog.whuzfb.cn,tag=cn-blog # 晨曦的博客
+$site=blog.eastonman.com,tag=cn-blog # Easton Man's Blog
+$site=lawrenceli.me,tag=cn-blog # Lawrence's Blog
+$site=zivlog.io,tag=cn-blog # Ziv Log
+$site=sht2019.cn,tag=cn-blog # 开源之心
+$site=zikin.org,tag=cn-blog # Zikin的独立博客
+$site=frankorz.com,tag=cn-blog # 萤火之森
+$site=imhan.cn,tag=cn-blog # 不如吃茶去
+$site=noionion.top,tag=cn-blog # 贰猹的小窝
+$site=zeqiang.fun,tag=cn-blog # 方泽强
+$site=blog.cyfan.top,tag=cn-blog # ChenYFanのBlog
+$site=hidandelion.com,tag=cn-blog # hiDandelion's Space
+$site=emperinter.info,tag=cn-blog # emperinter's blog
+$site=hin.cool,tag=cn-blog # W4J1e's blog
+$site=kongfandong.cn,tag=cn-blog # Leon.D's blog
+$site=yousazoe.top,tag=cn-blog # Fl0w3r
+$site=blog.jinreal.com,tag=cn-blog # 牛津的博客
+$site=haoxiang.org,tag=cn-blog # Haoxiang's Blog
+$site=blog.lihaoya.com,tag=cn-blog # 浩子's Blog
+$site=mengtnt.com,tag=cn-blog # mengtnt的Blog
+$site=surager.pub,tag=cn-blog # Surager Blog
+$site=controlnet.space,tag=cn-blog # ControlNet Blog
+$site=iaarwu.github.io,tag=cn-blog # Amphibia
+$site=eluyee.com,tag=cn-blog # Eluyee个人博客
+$site=vim0.com,tag=cn-blog # 咸糖的博客
+$site=sanzo.top,tag=cn-blog # Sanzo's Blog
+$site=hellodk.cn,tag=cn-blog # Allen Hua 的网络博客
+$site=7gugu.com,tag=cn-blog # 7gugu's Blog
+$site=xiaotaoguo.com,tag=cn-blog # XTAO's Tech Blog
+$site=bodunhu.com,tag=cn-blog # std::bodun::blog
+$site=developerastrid.com,tag=cn-blog # 程序员忆初
+$site=bugcatt.com,tag=cn-blog # 阿航的技术小站
+$site=blog.quarticcat.com,tag=cn-blog # QuarticCat's Blog
+$site=zkpeace.com,tag=cn-blog # 途中的树
+$site=liaoyq.club,tag=cn-blog # LitStronger's notes
+$site=weepingdogel.github.io,tag=cn-blog # WeepingDogel's Blog
+$site=blog.lss233.com,tag=cn-blog # Lss233's.Blog();
+$site=ioerr.github.io,tag=cn-blog # 读写错误
+$site=kxit.net,tag=cn-blog # Zhendong的博客
+$site=f2h2h1.github.io,tag=cn-blog # f2h2h1's blog
+$site=fidel.js.org,tag=cn-blog # Fidel's Lab
+$site=java4u.cn,tag=cn-blog # Java for You
+$site=easonyang.com,tag=cn-blog # Eason Yang's Blog
+$site=ifmet.cn,tag=cn-blog # 偕臧的小站
+$site=besscroft.com,tag=cn-blog # 旅行者的随想
+$site=labno3.com,tag=cn-blog # 3号实验室
+$site=waynerv.com,tag=cn-blog # Shall We Code?
+$site=huzizi.com,tag=cn-blog # 胡子的独立博客
+$site=4async.com,tag=cn-blog # ipfans
+$site=misfork.com,tag=cn-blog # Xudong's Blog
+$site=blog.halberd.cn,tag=cn-blog # Simple code Simple life
+$site=wu.run,tag=cn-blog # 吴润写字的地方
+$site=blog.ruixiaolu.com,tag=cn-blog # Rainshaw's Blog
+$site=aemoncao.github.io,tag=cn-blog # Aemon's Blog
+$site=siwei.io,tag=cn-blog # 思为说
+$site=marwin.cn,tag=cn-blog # Marwin's Blog
+$site=mmbkz.cn,tag=cn-blog # 火喵日记本
+$site=nosuchfield.com,tag=cn-blog # 御坂研究所
+$site=acmic.top,tag=cn-blog # Acmic
+$site=dianjiaogit.github.io,tag=cn-blog # 焦点的动力炉
+$site=imzhanghao.com,tag=cn-blog # 张浩在路上
+$site=zhukang.tech,tag=cn-blog # 凌赟's blog
+$site=lowin.li,tag=cn-blog # lowinli's blog
+$site=hocassian.cn,tag=cn-blog # 同和故事匯
+$site=woodloch.blog,tag=cn-blog # 木澤的研發腦
+$site=imzl.com,tag=cn-blog # 周良博客
+$site=dgideas.net,tag=cn-blog # DGideas' Blog
+$site=miaoer.net,tag=cn-blog # 喵二の小博客
+$site=nojsja.github.io,tag=cn-blog # nojsja'个人博客
+$site=itgoyo.github.io,tag=cn-blog # itgoyo's blog
+$site=jev0n.com,tag=cn-blog # 思泉-Jev0n
+$site=52xml.cn,tag=cn-blog # 橘子味的心
+$site=orzlinux.cn,tag=cn-blog # hqingLau的博客
+$site=taoshu.in,tag=cn-blog # 涛叔
+$site=hiczp.com,tag=cn-blog # czp's blog
+$site=imaegoo.com,tag=cn-blog # iMaeGoo's Blog
+$site=eallion.com,tag=cn-blog # 大大的小蜗牛
+$site=baiyun.me,tag=cn-blog # BAI YUN
+$site=blog.baoshuo.ren,tag=cn-blog # 宝硕博客
+$site=springwood.me,tag=cn-blog # 沉舟侧畔 Blog
+$site=gtdstudy.com,tag=cn-blog # 学无止境@一点一滴
+$site=ednovas.xyz,tag=cn-blog # EdNovas的小站
+$site=wentao.org,tag=cn-blog # wentao's blog
+$site=jiayuehua.com,tag=cn-blog # 贾跃华
+$site=github.com,tag=cn-blog # 算法进阶
+$site=qtmuniao.com,tag=cn-blog # 木鸟杂记
+$site=xdym11235.com,tag=cn-blog # 玉明BLOG
+$site=iamgodot.com,tag=cn-blog # Godot's Blog
+$site=zinglix.xyz,tag=cn-blog # ZingLix Blog
+$site=gyrojeff.top,tag=cn-blog # gyro永不抽风！
+$site=blog.drpika.com,tag=cn-blog # DrPika's Blog
+$site=whyes.org,tag=cn-blog # whyes的博客
+$site=ilovey.live,tag=cn-blog # 低调小熊猫
+$site=blog.xsot.cn,tag=cn-blog # 星辰日记
+$site=linchangyu.com,tag=cn-blog # 风雨雷电堂
+$site=whites.space,tag=cn-blog # White Space
+$site=puronglong.com,tag=cn-blog # 小 pu 的博客
+$site=fxpai.com,tag=cn-blog # 非学·派
+$site=imayx.top,tag=cn-blog # Ayx 博客
+$site=wangyou233.wang,tag=cn-blog # 忘忧 忘忧的小站
+$site=packetmania.net,tag=cn-blog # 网络热度
+$site=lxhyl.cn,tag=cn-blog # 蓝星回忆录
+$site=shellc.cn,tag=cn-blog # 蟹壳
+$site=icebreaker.top,tag=cn-blog # icebreaker
+$site=xqrp.com,tag=cn-blog # 闲趣日评
+$site=tortorse.com,tag=cn-blog # 愆伏
+$site=librehat.com,tag=cn-blog # Librehat's Blog
+$site=fengmengzhao.github.io,tag=cn-blog # 冯兄话吉博客
+$site=zuopin.jingluole.com,tag=cn-blog # 当代写作仓库
+$site=blog.didispace.com,tag=cn-blog # 程序猿DD
+$site=buzhangjiuzhou.com,tag=cn-blog # 步丈九州的博客
+$site=skyue.com,tag=cn-blog # SKYue's Home
+$site=bbing.com.cn,tag=cn-blog # BBing's Blog
+$site=blog.lzwi.fun,tag=cn-blog # lzw-723's blog
+$site=2bab.me,tag=cn-blog # 2BAB 的工程博客
+$site=izhaoo.com,tag=cn-blog # zhaoo's blog
+$site=blog.ypingcn.com,tag=cn-blog # ypingcn's blog
+$site=blog.licaoz.com,tag=cn-blog # LCZBlog
+$site=surmon.me,tag=cn-blog # Surmon.me
+$site=blog.fyun.org,tag=cn-blog # ZhensJoke 飞云算
+$site=yjdzm.com,tag=cn-blog # 遥近
+$site=qianguyihao.com,tag=cn-blog # 千古壹号
+$site=blog.xlab.app,tag=cn-blog # Tmr Blog
+$site=mantyke.icu,tag=cn-blog # 小球飞鱼
+$site=blog.yuanpei.me,tag=cn-blog # 素履独行
+$site=kaifeiji.cc,tag=cn-blog # 开飞机的老张
+$site=jdhao.github.io,tag=cn-blog # jdhao's blog
+$site=sogola.com,tag=cn-blog # 王小嗨的不老歌
+$site=eurychen.me,tag=cn-blog # 东泽煮粥
+$site=icys.top,tag=cn-blog # icy's blog
+$site=blog.alliot.tech,tag=cn-blog # Alliot's blog
+$site=itcharge.cn,tag=cn-blog # 程序员充电站
+$site=blog.yuk7.com,tag=cn-blog # Yuk的部落格
+$site=domon.cn,tag=cn-blog # Domon
+$site=s5s5.me,tag=cn-blog # [米随随] s5s5
+$site=dvel.me,tag=cn-blog # Dvel's Blog
+$site=blog.thetbw.xyz,tag=cn-blog # 黑羽的个人博客
+$site=sanguok.com,tag=cn-blog # 山月
+$site=himiku.com,tag=cn-blog # 初之音
+$site=lllgoyour.com,tag=cn-blog # LのWorld
+$site=zhul.in,tag=cn-blog # 竹林里有冰的博客
+$site=yeshu.cloud,tag=cn-blog # 一颗小树
+$site=fucktheworld.top,tag=cn-blog # Huiliu
+$site=moeci.com,tag=cn-blog # yiyun's Blog
+$site=zephray.me,tag=cn-blog # module Zephray
+$site=7400.me,tag=cn-blog # EE Archeology 电子考古学
+$site=hermine.in,tag=cn-blog # 赫尔米娜及其他
+$site=jtr109.com,tag=cn-blog # jtr109's Castle
+$site=lifeodyssey.github.io,tag=cn-blog # 乔克叔叔的床边故事
+$site=yinji.org,tag=cn-blog # 印记
+$site=xiaozonglin.cn,tag=cn-blog # 林林杂语
+$site=xieguanglei.github.io,tag=cn-blog # 一叶斋
+$site=w.toomore.us,tag=cn-blog # WangDeer
+$site=whexy.com,tag=cn-blog # Wenxuan 1999
+$site=iccat.cn,tag=cn-blog # 屹铭说
+$site=xsn123.top,tag=cn-blog # JohnSmith的小家
+$site=shinekid.com,tag=cn-blog # ShineKid
+$site=zincnode.com,tag=cn-blog # An's Blog
+$site=lorde627.xyz,tag=cn-blog # 罗二德
+$site=blog.noicdi.com,tag=cn-blog # zStack
+$site=u.sb,tag=cn-blog # 烧饼博客
+$site=xuetengfei.github.io,tag=cn-blog # xuetengfei'Blog
+$site=leimao.github.io,tag=cn-blog # Lei Mao's Log Book
+$site=blog.gd1214b.icu,tag=cn-blog # gd1214b's blog
+$site=blog.yeefire.com,tag=cn-blog # Sirius's Blog
+$site=blog.7wate.com,tag=cn-blog # 7Wate`s Blog
+$site=luckydesigner.space,tag=cn-blog # 行运设计师
+$site=congcong.us,tag=cn-blog # 司马他
+$site=elmagnifico.tech,tag=cn-blog # elmagnifico
+$site=yuhang.ch,tag=cn-blog # 陈昱行博客
+$site=bninecoding.com,tag=cn-blog # 冰以东的博客
+$site=frankindev.com,tag=cn-blog # inDev. Journal
+$site=muyesq.cn,tag=cn-blog # 穆野霜泉的黑洞
+$site=zahui.fan,tag=cn-blog # 杂烩饭
+$site=conge.github.io,tag=cn-blog # conge
+$site=blog.zhangda.xyz,tag=cn-blog # zd小达's blog
+$site=sumsec.me,tag=cn-blog # 像清水一般清澈透明
+$site=roy.wang,tag=cn-blog # ROYWANG
+$site=gh0st.cn,tag=cn-blog # Vulkey_Chen's Blog
+$site=blog.zjun.info,tag=cn-blog # zjun's blog
+$site=runningj.top,tag=cn-blog # RUNNINGJ
+$site=jdqiong.cn,tag=cn-blog # 禅房花木
+$site=frangezone.github.io,tag=cn-blog # Frange Zone｜Xu's Blog
+$site=catcoding.me,tag=cn-blog # 程序员的喵
+$site=hdgcs.com,tag=cn-blog # 后端工程师
+$site=blogke.cn,tag=cn-blog # BlogKe记录志
+$site=nickchenyx.github.io,tag=cn-blog # nickChenyx
+$site=mattia88.com,tag=cn-blog # 让我们一起发现西西里岛
+$site=edony.ink,tag=cn-blog # Shadow Walker 松烟阁
+$site=hujingnb.com,tag=cn-blog # 烟草的香味
+$site=blog.spacetimee.xyz,tag=cn-blog # SpaceTime Blog
+$site=fxkjnj.com,tag=cn-blog # 飞翔沫沫情博客
+$site=fancraft.top,tag=cn-blog # 帆域 - 帆帆的个人站
+$site=jieran233.github.io,tag=cn-blog # Jieran233's Blog
+$site=icodeq.com,tag=cn-blog # ZkeqのCoding日志
+$site=blog.redish101.top,tag=cn-blog # Redish101博客
+$site=xingyuanjie.top,tag=cn-blog # Amicoyuan的高性能计算世界
+$site=shiina18.github.io,tag=cn-blog # Measure Zero
+$site=shicheng.cool,tag=cn-blog # Sc's 神奇的JavaWeb
+$site=suse.org.cn,tag=cn-blog # openSUSE 中文社区
+$site=d2pe.com,tag=cn-blog # D2PE
+$site=blog.moeif.com,tag=cn-blog # Moeif
+$site=pinlyu.com,tag=cn-blog # 频率 - 风卷过的起点
+$site=lishuangquan.cn,tag=cn-blog # Peacalm Notes - 双全的网站
+$site=icodex.me,tag=cn-blog # icodex - 个人网站
+$site=shrik3.com,tag=cn-blog # shrik3
+$site=megamu.icu,tag=cn-blog # MegaMU个人站
+$site=abandon.work,tag=cn-blog # Alfxjx的博客
+$site=rei.ac,tag=cn-blog # Rei's Blog
+$site=yonniye.com,tag=cn-blog # yonniye's blog
+$site=wutonk.xyz,tag=cn-blog # WUTONK的小站
+$site=cubik65536.top,tag=cn-blog # Cubik的小站
+$site=liupj.top,tag=cn-blog # Peijie's Wiki
+$site=vra.github.io,tag=cn-blog # Yunfeng's Simple Blog
+$site=blog.laoliu.eu.org,tag=cn-blog # Lao_Liu's Blog
+$site=blog.qaiu.top,tag=cn-blog # QAIU's Blog
+$site=bestxtools.github.io,tag=cn-blog # 好工具周刊
+$site=ezindie.com,tag=cn-blog # 独立开发变现周刊
+$site=blog.ops-coffee.cn,tag=cn-blog # 运维咖啡吧
+$site=blog.reviosky.com,tag=cn-blog # 聆风Reviosky博客
+$site=arbays.com,tag=cn-blog # 富录-前端开发
+$site=eindex.me,tag=cn-blog # EINDEX's Blog
+$site=wumanho.cn,tag=cn-blog # OK Computer「好电脑」
+$site=leonhe.cn,tag=cn-blog # 远飞闲记
+$site=pseudoyu.com,tag=cn-blog # Pseudoyu
+$site=fasionchan.com,tag=cn-blog # 小菜学编程
+$site=blog.iamtsm.cn,tag=cn-blog # iamtsm博客
+$site=starfury.tech,tag=cn-blog # Starfury
+$site=daidr.me,tag=cn-blog # 戴兜的小屋
+$site=timochan.cn,tag=cn-blog # TimochanのBlog
+$site=yongchin.xyz,tag=cn-blog # Yongchin's Blog
+$site=hukeqing.github.io,tag=cn-blog # Shiroha白羽的博客
+$site=imalun.com,tag=cn-blog # 白云苍狗
+$site=jujimeizuo.cn,tag=cn-blog # jujimeizuo's Blog
+$site=blog.woyou.cool,tag=cn-blog # 我有点酷-HuntZou的博客
+$site=blog.bensontech.dev,tag=cn-blog # Benson
+$site=blognas.hwb0307.com,tag=cn-blog # 浮云翩迁之间
+$site=226yzy.com,tag=cn-blog # 星空下的YZY
+$site=sakurawald.github.io,tag=cn-blog # SakuraWald
+$site=imcao.cn,tag=cn-blog # ImCaO's Blog
+$site=nonedata.com,tag=cn-blog # NoneData
+$site=blog.cysi.me,tag=cn-blog # Cysime Moflu
+$site=chirmyram.top,tag=cn-blog # 七米蓝
+$site=dreamofice.cn,tag=cn-blog # 冰雪殇璃陌梦の小站
+$site=brightliao.com,tag=cn-blog # Bright LGM's Blog
+$site=allanware.github.io,tag=cn-blog # 文轩的Blog
+$site=zilinn.wang,tag=cn-blog # Angin
+$site=myblog.wallleap.cn,tag=cn-blog # Luwang's Blog
+$site=ursb.me,tag=cn-blog # Airing's Blog
+$site=bqyang.top,tag=cn-blog # 杨宝强的技术笔记
+$site=raz1ner.com,tag=cn-blog # Raz1ner
+$site=blog.blahaj.uk,tag=cn-blog # DAVID'S BLOG
+$site=ethan-phu.github.io,tag=cn-blog # Ethan's Blog
+$site=jinjipang.com,tag=cn-blog # jinji's Blog
+$site=owenyoung.com,tag=cn-blog # Owen的博客
+$site=blog.azhubaby.com,tag=cn-blog # 阿朱宝宝的博客
+$site=face2ai.com,tag=cn-blog # 谭升的博客
+$site=jerkwin.github.io,tag=cn-blog # 哲●科●文Jerkwin
+$site=dmesg.app,tag=cn-blog # 土豆不好吃
+$site=kawabangga.com,tag=cn-blog # 卡瓦邦噶！
+$site=moc.1tlt1.com,tag=cn-blog # 伊藤•博文
+$site=51.ruyo.net,tag=cn-blog # 如有乐享
+$site=blog.shyclouds.net,tag=cn-blog # 楚天乐的小站
+$site=huzheng.org,tag=cn-blog # 胡正
+$site=rhuen.netlify.app,tag=cn-blog # Rhuen - Rivendell
+$site=lhcy.org,tag=cn-blog # 林海草原
+$site=hetaoblog.site,tag=cn-blog # 无章
+$site=hehysh.github.io,tag=cn-blog # 十贰的小窝
+$site=coffeelize.top,tag=cn-blog # 智朋的个人博客
+$site=chestnutheng.cn,tag=cn-blog # 子恒的博客
+$site=chancel.me,tag=cn-blog # Chancel's blog
+$site=huhangfei.com,tag=cn-blog # 互航飞
+$site=blog.jimersylee.com,tag=cn-blog # Jimersy Lee’s blog
+$site=jimmieluo.com,tag=cn-blog # Jim Luo's blog
+$site=blog.zhheo.com,tag=cn-blog # 张洪Heo
+$site=blog.save-web.org,tag=cn-blog # Save The Web Project
+$site=albertaz.com,tag=cn-blog # AlbertAz's Blog
+$site=newsletter.laborinfocn.com,tag=cn-blog # 工劳小报
+$site=yukicat.net,tag=cn-blog # 雪猫社
+$site=shifeiti.com,tag=cn-blog # 是非题
+$site=linshenkx.cn,tag=cn-blog # 且炼时光
+$site=dorck.cn,tag=cn-blog # 道轲
+$site=blog.17lai.site,tag=cn-blog # 夜法之书
+$site=blog.makerlife.top,tag=cn-blog # Makerlife 的小站
+$site=zishu.me,tag=cn-blog # 子舒的博客
+$site=maie.name,tag=cn-blog # 流浪天下
+$site=zguishen.com,tag=cn-blog # zguishen's blog
+$site=blog.sayhi.moe,tag=cn-blog # 洛雪のCat
+$site=xnzw.org,tag=cn-blog # 一念
+$site=matsuri.site,tag=cn-blog # matsuri's neverland
+$site=yanhaijing.com,tag=cn-blog # 颜海镜
+$site=zhangningle.top,tag=cn-blog # 九旬的博客
+$site=littlecold.cn,tag=cn-blog # 小冷-瞎逼逼
+$site=glooow1024.github.io,tag=cn-blog # 你是下雨天
+$site=blog.storycn.cn,tag=cn-blog # 时间的朋友
+$site=emergencyexit.xyz,tag=cn-blog # 布鲁斯鱼的奇思乱想
+$site=slbyml.github.io,tag=cn-blog # 静水深流的博客
+$site=tw93.fun,tag=cn-blog # Tw93 的博客
+$site=oceroblogentry.metalstudio.top,tag=cn-blog # ocero的博客
+$site=zh996.com,tag=cn-blog # BinGo‘s Blog
+$site=finisky.github.io,tag=cn-blog # Finisky Garden
+$site=qiuyuair.com,tag=cn-blog # Qiuyuair的自留地
+$site=ameow.xyz,tag=cn-blog # 阿猫的博客
+$site=mkshell.com,tag=cn-blog # 造壳 MkShell
+$site=timeshike.com,tag=cn-blog # 流年石刻
+$site=blog.liugezhou.online,tag=cn-blog # 六个周
+$site=sunnyfly.com,tag=cn-blog # 孙威的阳光海
+$site=blog.sean.taipei,tag=cn-blog # Sean's Note
+$site=blog.cserwen.com,tag=cn-blog # cserwen
+$site=blog.crrashh.com,tag=cn-blog # 云萧的咕咕屋
+$site=areschang.top,tag=cn-blog # Ares Chang的小笔记
+$site=nsddd.top,tag=cn-blog # xiongxinwei的个人博客
+$site=yifeishu.com,tag=cn-blog # 亦非书
+$site=onelk.cn,tag=cn-blog # 李昆博客
+$site=kqh.me,tag=cn-blog # 赫赫文王
+$site=yipai.me,tag=cn-blog # 一派胡言
+$site=supereggs.cn,tag=cn-blog # SuperEggs
+$site=whrss.com,tag=cn-blog # 了迹奇有没
+$site=tanxinyu.work,tag=cn-blog # 谭新宇的博客
+$site=garygky.github.io,tag=cn-blog # 甘凯元的博客
+$site=szp15.com,tag=cn-blog # 山楂片的博客
+$site=youkaichao.github.io,tag=cn-blog # Kaichao You
+$site=zhaochenyang20.github.io,tag=cn-blog # Eren Zhao
+$site=jia.je,tag=cn-blog # 杰哥的小笔记
+$site=inlighting.org,tag=cn-blog # 沧海明月
+$site=blog.cnix.cc,tag=cn-blog # Wriprin's Blog
+$site=songhaozhi.com,tag=cn-blog # 宋浩志的博客
+$site=simplecoding.fun,tag=cn-blog # 子来园
+$site=mereith.com,tag=cn-blog # Mereith's Blog
+$site=wangfenjin.com,tag=cn-blog # Wang Fenjin's Blog
+$site=ligdy.com,tag=cn-blog # Ligdyu Blog
+$site=suus.me,tag=cn-blog # SeerSu
+$site=blog.cpen.top,tag=cn-blog # Mycpen
+$site=penghh.fun,tag=cn-blog # 效率工具指南
+$site=mark24code.github.io,tag=cn-blog # Mark24Code
+$site=blog.xiaozhao233.top,tag=cn-blog # 小赵博客 - XiaoZhao233
+$site=zy99.net,tag=cn-blog # 翻身猫
+$site=macin.org,tag=cn-blog # Macin
+$site=blog.l0v0.com,tag=cn-blog # 智伤帝
+$site=bili33.top,tag=cn-blog # GamerNoTitle
+$site=yuzhang.wang,tag=cn-blog # YuZhangWang的领域
+$site=jfsay.com,tag=cn-blog # 静风说
+$site=owlswims.com,tag=cn-blog # To the Lighthouse
+$site=blog.trumandu.top,tag=cn-blog # TrumanDu 博客
+$site=vlight.me,tag=cn-blog # Wang's Blog
+$site=huoyijie.cn,tag=cn-blog # HUOYIJIE's WEB开发笔记
+$site=spaceack.com,tag=cn-blog # Spaceack's Blog
+$site=yiliang.site,tag=cn-blog # 易良同学的博客
+$site=yubolun.com,tag=cn-blog # Yubolun 博客
+$site=blackholemax.github.io,tag=cn-blog # BlackHole's Blog
+$site=mephisto.cc,tag=cn-blog # Mephisto's blog
+$site=tonybai.com,tag=cn-blog # Tony Bai
+$site=blog.laoda.de,tag=cn-blog # 我不是咕咕鸽
+$site=v-blog.yyshino.top,tag=cn-blog # YYshino's Blog
+$site=vinoca.org,tag=cn-blog # 方永、南天紫云
+$site=dabaizuihei.github.io,tag=cn-blog # 大白最黑のHome
+$site=mkblog.cn,tag=cn-blog # 孟坤博客
+$site=ikxin.com,tag=cn-blog # 一纸忘忧
+$site=blog.yuxiangwang0525.com,tag=cn-blog # YuxiangWang_0525的博客
+$site=tjsite.cn,tag=cn-blog # tj‘sblog_无聊项目聚集地
+$site=eaimty.com,tag=cn-blog # EAimTY 的博客
+$site=blog.12ms.xyz,tag=cn-blog # R4y的博客
+$site=66619.eu.org,tag=cn-blog # 619's blog
+$site=blog.fengjx.com,tag=cn-blog # 铁匠's blog
+$site=trle5.xyz,tag=cn-blog # Hubert's Blog
+$site=smallyu.net,tag=cn-blog # smallyu的博客
+$site=toast.pub,tag=cn-blog # 吐司面包
+$site=oi-liu.com,tag=cn-blog # vegetable1024的博客
+$site=kenvix.com,tag=cn-blog # Kenvix's Blog
+$site=stephenleng.com,tag=cn-blog # 心的道理
+$site=blog.esonwong.com,tag=cn-blog # Eson Wong's Blog
+$site=4ading.com,tag=cn-blog # 阿啊阿吖丁
+$site=blog.javazero.top,tag=cn-blog # Java不加糖's Blog
+$site=wmathor.com,tag=cn-blog # Mathor's Blog
+$site=codefine.site,tag=cn-blog # 代码范
+$site=bbbbchan.com,tag=cn-blog # BB酱的博客
+$site=chengzz.com,tag=cn-blog # 诚哥博客
+$site=blog.krisyan.dev,tag=cn-blog # Kris Yan
+$site=ystyle.top,tag=cn-blog # 东方星痕
+$site=anjhon.top,tag=cn-blog # Anjhon’s Blog
+$site=blog.mythsman.com,tag=cn-blog # Mythsman
+$site=blog.huangfusl.net,tag=cn-blog # HuangFuSL's Blog
+$site=blog.canyie.top,tag=cn-blog # 残页的小博客
+$site=blog.wangtwothree.com,tag=cn-blog # 膨胀的面包
+$site=blog.moeworld.tech,tag=cn-blog # 晓空blog
+$site=mosuzi.com,tag=cn-blog # Mosu - Mosuzi的博客
+$site=weishu.me,tag=cn-blog # Weishu's Notes
+$site=blog.verynb.me,tag=cn-blog # 晴雀堂
+$site=blog.skywt.cn,tag=cn-blog # SkyWT
+$site=jingine.com,tag=cn-blog # Jing Blog
+$site=wjd.name,tag=cn-blog # 王佳冬中文博客
+$site=hugeterry.cn,tag=cn-blog # HugeTerry-Den
+$site=lmmsoft.github.io,tag=cn-blog # 明明如月的博客
+$site=xiexie.me,tag=cn-blog # 我的成长实证
+$site=ahianzhang.com,tag=cn-blog # 象帝浮华生
+$site=blog.ismisv.com,tag=cn-blog # 类库大魔王的挖井日记
+$site=u3blog.xyz,tag=cn-blog # u3blog
+$site=sixtyden.com,tag=cn-blog # Sixty's Den
+$site=notes.cerallin.top,tag=cn-blog # Cerallin's blog
+$site=cestlavie.moe,tag=cn-blog # Cestlavie's Blog
+$site=happyxiao.com,tag=cn-blog # happy xiao 的博客
+$site=dongyao.ren,tag=cn-blog # Clark's 尧望 Blog
+$site=muzing.top,tag=cn-blog # muzing的杂货铺
+$site=rook1e.com,tag=cn-blog # /home/rook1e
+$site=ycao.top,tag=cn-blog # Yi's Blog
+$site=youngforever.tech,tag=cn-blog # 从百草园到三味书屋
+$site=longluo.me,tag=cn-blog # Long Luo's Life Notes
+$site=moeyua.com,tag=cn-blog # 四畳半のへや
+$site=hotarugali.github.io,tag=cn-blog # お前はどこまで見えている
+$site=magren.me,tag=cn-blog # Magren's Blog
+$site=yigegongjiang.com,tag=cn-blog # 一个工匠
+$site=alexsjc.top,tag=cn-blog # AlexSJC 的博客
+$site=hgoldfish.com,tag=cn-blog # 老鱼的博客
+$site=windsong.top,tag=cn-blog # xxxx的个人博客
+$site=wiki-mkdocs-topaz.vercel.app,tag=cn-blog # Ethan's Wiki
+$site=fanmingming.com,tag=cn-blog # 范明明
+$site=n-xin.com,tag=cn-blog # 宁鑫的个人博客
+$site=an.rustfisher.com,tag=cn-blog # RustFisher软件开发
+$site=tsukistar.fun,tag=cn-blog # 月落星河Tsukistar
+$site=dsy4567.github.io,tag=cn-blog # dsy4567 的小站
+$site=cyrilstudio.top,tag=cn-blog # 梦溪博客
+$site=totapo.netlify.app,tag=cn-blog # Captain的博客
+$site=cytrogen.icu,tag=cn-blog # 万圣节恶魔的领地
+$site=blog.dejavu.moe,tag=cn-blog # Dejavu's Blog
+$site=zhaolife.com,tag=cn-blog # zhaolife Blog
+$site=icooper.cc,tag=cn-blog # iCooper
+$site=taresky.com,tag=cn-blog # TARESKY
+$site=immaxfang.com,tag=cn-blog # Max的技术札记
+$site=blog.wohin.me,tag=cn-blog # Fernweh
+$site=suiko.dev,tag=cn-blog # Suiko的自留地
+$site=dusays.com,tag=cn-blog # 杜老师说
+$site=fiftysixtimes7.github.io,tag=cn-blog # 世界观察日记
+$site=xinies.cn,tag=cn-blog # 夕泥
+$site=studyinglover.com,tag=cn-blog # plus studio
+$site=blog.michealwayne.cn,tag=cn-blog # Wayne的技术博客
+$site=outti.me,tag=cn-blog # 时光的时光轴
+$site=hexo.whtli.cn,tag=cn-blog # whtli的个人博客
+$site=home.cse.ust.hk,tag=cn-blog # 文明
+$site=jackpu.com,tag=cn-blog # 蒲小花的博客
+$site=growdu.gitee.io,tag=cn-blog # growdu
+$site=ccagml.com,tag=cn-blog # ccagml的博客
+$site=lxnchan.cn,tag=cn-blog # 泠泫凝的异次元空间
+$site=wrong.wang,tag=cn-blog # Wrong.wang
+$site=xiaoa.name,tag=cn-blog # Colorful - 一枚数字艺术家的自留地
+$site=sekyoro.top,tag=cn-blog # Sekyoro的博客小屋
+$site=cheshirex.com,tag=cn-blog # 柴郡猫
+$site=nai.dog,tag=cn-blog # obaby@mars
+$site=aikenh.cn,tag=cn-blog # aikenh
+$site=202271.xyz,tag=cn-blog # 醉里博客
+$site=firfor.cn,tag=cn-blog # RBA的技术分享
+$site=nekow.cn,tag=cn-blog # 黑川眠也的猫窝
+$site=newzone.top,tag=cn-blog # LearnData 开源笔记
+$site=styunlen.cn,tag=cn-blog # 九仞之行
+$site=enderfga.cn,tag=cn-blog # Enderfga's blog
+$site=szhshp.org,tag=cn-blog # szhshp 的第三边境研究所
+$site=blog.sunguoqi.com,tag=cn-blog # 小孙同学
+$site=ming5ming.xlog.app,tag=cn-blog # ming5ming's blog
+$site=dreamlyn.cn,tag=cn-blog # 牧尘的网络日志
+$site=blog.cmyr.ltd,tag=cn-blog # 草梅友仁的博客
+$site=yusank.space,tag=cn-blog # Yusank's Site
+$site=zhengwenfeng.com,tag=cn-blog # 郑文峰的博客
+$site=miaohn.github.io,tag=cn-blog # MiaoHN's Blog
+$site=durongjie.com,tag=cn-blog # Freeze's Blog
+$site=n0tr00t.eu.org,tag=cn-blog # n0tr00t's blog
+$site=crudman.cn,tag=cn-blog # CRUDMAN
+$site=phpreturn.com,tag=cn-blog # PHP武器库
+$site=puming.zone,tag=cn-blog # 浦明的博客
+$site=breakinglead.github.io,tag=cn-blog # 破碎千秋
+$site=lxb.wiki,tag=cn-blog # Xiaobin's Blog
+$site=lanyundev.com,tag=cn-blog # LanYunのBlog
+$site=xrandroid.com,tag=cn-blog # mikaelzero
+$site=leonis.cc,tag=cn-blog # Leo's blog
+$site=yanyue404.github.io,tag=cn-blog # 闫越的网络日志
+$site=hjwu.cc,tag=cn-blog # WuHJ's Personel Site
+$site=blog.tifa-233.com,tag=cn-blog # Tifa's Blog
+$site=blog.si-on.top,tag=cn-blog # 子虚栈
+$site=wangxiansen.top,tag=cn-blog # 王先森的博客
+$site=sjdhome.com,tag=cn-blog # sjdhome blog
+$site=zzy2001.com,tag=cn-blog # 小祝同学的日常
+$site=hsuyeung.com,tag=cn-blog # Hsu Yeung 的博客
+$site=isfalse.pro,tag=cn-blog # Moby
+$site=kkocdko.site,tag=cn-blog # kkocdko 的博客
+$site=qingwan.top,tag=cn-blog # 清风菀月轩
+$site=royc30ne.com,tag=cn-blog # 若绾
+$site=rangotec.com,tag=cn-blog # 千古八方的博客
+$site=blog.thatcoder.cn,tag=cn-blog # 钟意博客
+$site=blog.ikeno.top,tag=cn-blog # ikeno blog
+$site=smiletoyou.cn,tag=cn-blog # Coding手艺人
+$site=blog.c3c.one,tag=cn-blog # AlexSJC 的博客
+$site=suiyan.cc,tag=cn-blog # 碎言博客
+$site=blog.ctftools.com,tag=cn-blog # Dr3@m's Blog
+$site=blog.renfei.net,tag=cn-blog # 任霏博客
+$site=shuiba.co,tag=cn-blog # Shuibaco • 水八口
+$site=iliu.org,tag=cn-blog # 流金岁月
+$site=blog.darrenzzy.cn,tag=cn-blog # Darren blog
+$site=linglan01.cn,tag=cn-blog # 凌览社
+$site=cnsre.cn,tag=cn-blog # SRE运维博客
+$site=hiripple.com,tag=cn-blog # Ripple's blog
+$site=liangyuanpeng.com,tag=cn-blog # 远鹏的博客
+$site=windypath.com,tag=cn-blog # 风萧古道
+$site=blog.fanmiao.site,tag=cn-blog # 饭喵
+$site=blog.zerolacqua.top,tag=cn-blog # 丘卡饮品店
+$site=yyy.zone,tag=cn-blog # 识文解意的爱书人
+$site=oragekk.me,tag=cn-blog # Oragekk's Blog
+$site=kexizeroing.github.io,tag=cn-blog # Kexi Dang's blog
+$site=youerning.top,tag=cn-blog # 又耳笔记
+$site=weaxsey.org,tag=cn-blog # 豆逗子的小黑屋
+$site=blog.alswl.com,tag=cn-blog # Log4D
+$site=fallen.wang,tag=cn-blog # 沙多多的奇思妙想
+$site=quant67.com,tag=cn-blog # 土法炼钢兴趣小组的博客
+$site=blog.cuger.cn,tag=cn-blog # Dorad's Life
+$site=n.ova.moe,tag=cn-blog # ネコのメモ帳
+$site=great-jin.github.io,tag=cn-blog # 布袋青年
+$site=dqzboy.com,tag=cn-blog # 浅时光博客
+$site=cirry.cn,tag=cn-blog # Cirry's Blog
+$site=kivinsae.com,tag=cn-blog # Kivinsae's Nest
+$site=xlog.me,tag=cn-blog # 晚风博客
+$site=2357.life,tag=cn-blog # 质数人生
+$site=my.minecraft.kim,tag=cn-blog # HikariLan's Blog
+$site=rehtt.com,tag=cn-blog # Rehtt's Blog
+$site=blog.bluemangoo.net,tag=cn-blog # Bluemangoo;s Blog
+$site=trudbot.cn,tag=cn-blog # trudbot's blog
+$site=liuuzaki.net,tag=cn-blog # 这里是L
+$site=wp-boke.work,tag=cn-blog # shimmer
+$site=pythoncat.top,tag=cn-blog # 豌豆花下猫 - Python猫
+$site=blog.src.moe,tag=cn-blog # s0urce's Lab
+$site=wayjam.me,tag=cn-blog # WAYJAM's Blog
+$site=xiaochopin.github.io,tag=cn-blog # 重生云
+$site=huangdf.xyz,tag=cn-blog # 柒月是你的谎言
+$site=blog.fkynjyq.com,tag=cn-blog # FKY&JYQ
+$site=wekic.com,tag=cn-blog # Vincent' blog
+$site=xianrenlife.com,tag=cn-blog # 闲人Life
+$site=xijingxu.blog,tag=cn-blog # 良说
+$site=moonkite.cn,tag=cn-blog # 古时的风筝
+$site=usefulness.info,tag=cn-blog # 有（冇）用
+$site=iloli.moe,tag=cn-blog # IceCliffs
+$site=panzhixiang.cn,tag=cn-blog # 潘智祥
+$site=lipijin.com,tag=cn-blog # 菜皮日记
+$site=1q43.blog,tag=cn-blog # 虹线
+$site=waahah.xyz,tag=cn-blog # 无名小站
+$site=qiu.se,tag=cn-blog # 秋色部落
+$site=helloseraphine.top,tag=cn-blog # Seraphineの小窝
+$site=dongjunke.cn,tag=cn-blog # 东评西就
+$site=leonfong.me,tag=cn-blog # Leon Fong 的个人网站
+$site=mengke.me,tag=cn-blog # Ke's blog
+$site=dbwu.tech,tag=cn-blog # 蛮荆
+$site=wangdu.site,tag=cn-blog # 文武科技柜
+$site=oct.cool,tag=cn-blog # Oct.Cool
+$site=mrsecond.cn,tag=cn-blog # Mrsecond's blog
+$site=demochen.com,tag=cn-blog # 特立独行的异类
+$site=ivanli.cc,tag=cn-blog # Ivan's blog
+$site=tl.ivanli.cc,tag=cn-blog # Ivan's Timeline
+$site=nemo.cool,tag=cn-blog # Nemo
+$site=happyfou.com,tag=cn-blog # 元否的研究室
+$site=fallrain.cn,tag=cn-blog # 秋雨 De Blog
+$site=smj.im,tag=cn-blog # 方寸之间
+$site=liduos.com,tag=cn-blog # 莫尔索
+$site=uuanqin.top,tag=cn-blog # 半方池水半方田
+$site=my.toho.red,tag=cn-blog # 西行妖
+$site=hallee.me,tag=cn-blog # 哈尔的城堡
+$site=xmylog.com,tag=cn-blog # X·myLog
+$site=blog.baicai.me,tag=cn-blog # 白菜
+$site=xingbianren.cn,tag=cn-blog # 刑辩人在路上
+$site=blog.krysztal.dev,tag=cn-blog # Krysztal的书桌
+$site=christianpoet.github.io,tag=cn-blog # 大小碗诗话
+$site=yanyuteng.github.io,tag=cn-blog # Yuteng's Blog
+$site=halo.zfc.life,tag=cn-blog # 時間豆
+$site=blog.twelveeee.top,tag=cn-blog # 十二的编程笔记
+$site=lihan3238.github.io,tag=cn-blog # 李寒的小窝
+$site=blog.gaoran.xyz,tag=cn-blog # Ryan' Lab
+$site=lifesailor.me,tag=cn-blog # 余晟的博客
+$site=blog.bao-feng.top,tag=cn-blog # BaofengのBlog
+$site=xiaodu0.com,tag=cn-blog # 小杜的技术博客
+$site=hauhau.cn,tag=cn-blog # 叹世界
+$site=cdt3211.top,tag=cn-blog # Abner的秘密基地
+$site=nicrosoft.net,tag=cn-blog # 农码生涯 无酒无花
+$site=dennisthink.com,tag=cn-blog # 浮生笔记
+$site=laike9m.com,tag=cn-blog # Laike9m's blog
+$site=space520.eu.org,tag=cn-blog # 时空之歌
+$site=ymiir.top,tag=cn-blog # 月梦の技术博客
+$site=blog.jasonleehere.com,tag=cn-blog # Jason Lee的个人博客
+$site=upsangel.com,tag=cn-blog # by Upsangel
+$site=krkr2.xyz,tag=cn-blog # krkr2(beta)
+$site=blog.akimio.top,tag=cn-blog # 秋澪Akimio
+$site=blog.mws.rocks,tag=cn-blog # Sky Watch
+$site=booop.net,tag=cn-blog # booop
+$site=blog.shanwer.top,tag=cn-blog # Shanwer's Blog
+$site=xnum.github.io,tag=cn-blog # xnum's Blog
+$site=leilie.top,tag=cn-blog # 雷烈
+$site=wycode.cn,tag=cn-blog # 王郁的小站
+$site=luviichann.top,tag=cn-blog # Lcblogcraft
+$site=wuminboke.site,tag=cn-blog # 无名博客
+$site=gorpeln.top,tag=cn-blog # gorpeln的个人博客
+$site=chi.miantiao.me,tag=cn-blog # 面条实验室
+$site=blog.xlonglong.cn,tag=cn-blog # Longlong's Blog
+$site=ruterly.com,tag=cn-blog # Ruter's Blog
+$site=xiaowuleyi.com,tag=cn-blog # 小吴乐意’blog
+$site=garymeng.com,tag=cn-blog # Gary's Blog
+$site=localfreedom.pages.dev,tag=cn-blog # 局域自由
+$site=blog.sci.ci,tag=cn-blog # Qifei's Blog
+$site=yuanj.top,tag=cn-blog # 猫四叔
+$site=yangk.net,tag=cn-blog # 云无心天天向上
+$site=qborfy.com,tag=cn-blog # Qborfy知识库
+$site=fwqaq.us,tag=cn-blog # fwqaaq's Blog
+$site=blog.zgsec.cn,tag=cn-blog # AabyssZG's Blog
+$site=mocusez.site,tag=cn-blog # Mox的笔记库
+$site=zhjwork.online,tag=cn-blog # 专享生活
+$site=wp.wtrzl.xyz,tag=cn-blog # 正念
+$site=8ug.icu,tag=cn-blog # 8ug.icu
+$site=szqp.site,tag=cn-blog # QP's Blog
+$site=blog.lazyforever.top,tag=cn-blog # lazy_forever's Blog
+$site=yfzhu.cn,tag=cn-blog # 阿猪
+$site=hhao.wang,tag=cn-blog # 寒九
+$site=wejias.com,tag=cn-blog # 迦识
+$site=duanmourena.github.io,tag=cn-blog # 段某人的博客
+$site=liudon.com,tag=cn-blog # 流动
+$site=fghrsh.net,tag=cn-blog # FGHRSH 的博客
+$site=zla.pub,tag=cn-blog # ZLA 小站
+$site=blog.growingoak.top,tag=cn-blog # 小橡树指北
+$site=anotherdayu.com,tag=cn-blog # Another Dayu
+$site=blog.zhangyingwei.com,tag=cn-blog # 胡说
+$site=changshiban.com,tag=cn-blog # 唱诗班
+$site=guangweiblog.com,tag=cn-blog # 王光卫博客
+$site=sugarat.top,tag=cn-blog # 粥里有勺糖
+$site=path2exile.com,tag=cn-blog # Path2Exile
+$site=innomad.io,tag=cn-blog # Innomad一挪迈
+$site=rayepeng.net,tag=cn-blog # Raye's Journey
+$site=cubeyond.net,tag=cn-blog # CuB3y0nd's Writings
+$site=naive514.top,tag=cn-blog # 俟河清
+$site=lhasa.icu,tag=cn-blog # 游钓四方
+$site=greniray.org,tag=cn-blog # 十月遗忘诗
+$site=hi.asyncx.top,tag=cn-blog # AsyncX's Blog
+$site=mag267.github.io,tag=cn-blog # Mag‘s Blog
+$site=blog.liuailin.top,tag=cn-blog # Ali's Blog
+$site=blog.peiluming.com,tag=cn-blog # 裴先生笔记
+$site=qingmingzong.cn,tag=cn-blog # 纸灯的博客
+$site=ibcl.us,tag=cn-blog # I BCL.
+$site=blog.oyyko.com,tag=cn-blog # Oyyko's Blog
+$site=raymondhouch.com,tag=cn-blog # 雷蒙三十
+$site=kaffa.im,tag=cn-blog # Kaffa
+$site=val-istar-guo.com,tag=cn-blog # Val.istar.Guo Blog
+$site=timlau.me,tag=cn-blog # 码农小易的博客
+$site=jdjwzx233.cn,tag=cn-blog # jdjwzx233-Blog
+$site=program-think.blogspot.com,tag=cn-blog # 编程随想的博客
+$site=wygxmew.github.io,tag=cn-blog # 乌云盖雪
+$site=xingpingcn.top,tag=cn-blog # 邢平cn-xingpingcn
+$site=chaoniulian.com,tag=cn-blog # 骑行超过牛
+$site=champhoon.xyz,tag=cn-blog # 澄沨的漫游茶记
+$site=blog.gadore.top,tag=cn-blog # 千里之豪
+$site=cniter.github.io,tag=cn-blog # Shaun's Space
+$site=blog.wexiami.com,tag=cn-blog # 大熊要飞翔
+$site=codeinchinese.com,tag=cn-blog # 用中文编程
+$site=zzrl.cc,tag=cn-blog # 追逐日落
+$site=moonlt.site,tag=cn-blog # 月夜Moonlight
+$site=xlabs.club,tag=cn-blog # 卫星实验室
+$site=zyzhang.com,tag=cn-blog # 张智勇
+$site=howiehz.top,tag=cn-blog # 皓子的小站
+$site=zodream.cn,tag=cn-blog # ZoDream's Blog
+$site=blog.dao.js.cn,tag=cn-blog # 懋和道人
+$site=bestcoder.cn,tag=cn-blog # 顶尖研发的个人博客
+$site=tcmiku.github.io,tag=cn-blog # tcmiku的档案库
+$site=lter.space,tag=cn-blog # LT-Space
+$site=my.gintama.love,tag=cn-blog # HanSan'Blog
+$site=bluehe.cn,tag=cn-blog # 云心怀鹤
+$site=zzzmh.cn,tag=cn-blog # zzzmh's Blog
+$site=forrestgump618.github.io,tag=cn-blog # 一个夏天的年少
+$site=dallas.lu,tag=cn-blog # Dallas Lu
+$site=baiwulin.com,tag=cn-blog # 雾林博客
+$site=raingpt.top,tag=cn-blog # Rain9's Home
+$site=arckive.cn,tag=cn-blog # Yuics Blog
+$site=verlif.top,tag=cn-blog # 烧烤的小站
+$site=unnamedtat.xyz,tag=cn-blog # A small world of unnamedtat
+$site=songfei.org,tag=cn-blog # 飞飞爱折腾
+$site=nolanblog.top,tag=cn-blog # 阿豪
+$site=blog.menghuan1918.com,tag=cn-blog # Menghuan1918的博客
+$site=ceeji.net,tag=cn-blog # 笃志者的博客
+$site=cosmo-polite.com,tag=cn-blog # Cosmos的博客
+$site=blog.douchi.space,tag=cn-blog # 椒盐豆豉
+$site=imzh.me,tag=cn-blog # 在01之间到处找我
+$site=ramble.imzh.me,tag=cn-blog # JZ's Rambles
+$site=mafeifan.com,tag=cn-blog # mafeifan的技术博客
+$site=wener.me,tag=cn-blog # Wener's Live & Life
+$site=kneep.top,tag=cn-blog # 尼普学种花
+$site=dwsql.com,tag=cn-blog # 数据仓库技术
+$site=fatbobman.com,tag=cn-blog # 肘子的 Swift 记事本
+$site=tevinzhang.com,tag=cn-blog # Tevin Zhang
+$site=simonhe.me,tag=cn-blog # Simon's Blog
+$site=linzihao.com,tag=cn-blog # Linzihao's Blog
+$site=keenwon.com,tag=cn-blog # Keenwon's Blog
+$site=farer.org,tag=cn-blog # Stray Episode
+$site=luffy.cc,tag=cn-blog # 蒙奇日记
+$site=data4fun.cc,tag=cn-blog # data4fun
+$site=blog.reincarnatey.net,tag=cn-blog # 失迹の博客
+$site=kerrynotes.com,tag=cn-blog # Kerry的学习笔记
+$site=blog.yasking.org,tag=cn-blog # 东东's Blog
+$site=thinking-reed.cn,tag=cn-blog # 有思想的芦苇's Blog
+$site=ruanchaomin.com,tag=cn-blog # 阮超民的个人网站
+$site=zair.top,tag=cn-blog # 逐水寻源
+$site=razeen.me,tag=cn-blog # Razeen's Blog
+$site=qs5.org,tag=cn-blog # 青石坞
+$site=i.hsfzxjy.site,tag=cn-blog # hsfzxjy 的博客
+$site=sess.moe,tag=cn-blog # SЕSSのB10GТЕ5Т
+$site=ichenfu.com,tag=cn-blog # C0reFast记事本
+$site=isming.me,tag=cn-blog # 码农明明桑
+$site=baby7blog.com,tag=cn-blog # 七仔的博客
+$site=deeprouter.org,tag=cn-blog # Deeprouter
+$site=jame.work,tag=cn-blog # Jame
+$site=inote.xyz,tag=cn-blog # iNote
+$site=hotaru.icu,tag=cn-blog # HotaruBlog
+$site=aolifu.org,tag=cn-blog # 奥利弗的狗窝
+$site=blog.lifebus.top,tag=cn-blog # 人生足迹 · 博客平台
+$site=moranfong.com,tag=cn-blog # 白丁轶事
+$site=coderli.com,tag=cn-blog # OneCoder的博客
+$site=physnya.top,tag=cn-blog # 菲兹克斯喵
+$site=xeonzilla.top,tag=cn-blog # Xeonzilla's Note
+$site=blog.kdev.top,tag=cn-blog # Kang's Blog
+$site=blog.jaspirit.cc,tag=cn-blog # JaSpirit 的万事屋
+$site=seaeye.cn,tag=cn-blog # 深海之眼
+$site=hats-land.com,tag=cn-blog # 帽之岛 - Hat's Land
+$site=niracler.com,tag=cn-blog # Niracler's Blog
+$site=blog.luijp.cn,tag=cn-blog # 拒绝内耗直接发疯
+$site=blog.gentlelucky.com,tag=cn-blog # gentlelucky
+$site=dreams.plus,tag=cn-blog # 但为君故
+$site=ycyin.eu.org,tag=cn-blog # 小松鼠的博客
+$site=taxodium.ink,tag=cn-blog # Taxodium
+$site=bducds.com,tag=cn-blog # 酷酷的白
+$site=blog.mmf.moe,tag=cn-blog # Yesterday17's Blog
+$site=wsh233.cn,tag=cn-blog # WSH
+$site=heggria.site,tag=cn-blog # Heggria
+$site=blog.sehnsucht.top,tag=cn-blog # Sehnsucht
+$site=imrising.cn,tag=cn-blog # RisingIce
+$site=muspimerol.site,tag=cn-blog # Muspi Merol 的个人主页
+$site=qubeijun.github.io,tag=cn-blog # qubeijun's Blog
+$site=vpscp.top,tag=cn-blog # VPS严选
+$site=blog.lierhua.top,tag=cn-blog # 夜雨秋灯
+$site=qhlcmy.me,tag=cn-blog # 水木的博客
+$site=lihao00.com,tag=cn-blog # 有话豪说
+$site=zyimm.com,tag=cn-blog # Wake Me Up When September Ends.
+$site=xieyonglin.com,tag=cn-blog # Yonglin's Blog
+$site=lzhgy.cn,tag=cn-blog # 寻渊的博客
+$site=pinaland.cn,tag=cn-blog # 晴空树
+$site=nxysj.top,tag=cn-blog # 宇宇博客
+$site=blog.deepchirp.com,tag=cn-blog # 空鸣深语
+$site=geekery.cn,tag=cn-blog # 运维开发绿皮书
+$site=mangoman.us.kg,tag=cn-blog # 芒果勿语
+$site=blog.distjr.top,tag=cn-blog # distjr_'s blog
+$site=moonstone.fun,tag=cn-blog # 月石MoonStone
+$site=blog.thedoga.tech,tag=cn-blog # 栖木的网络日志
+$site=blog.418121.xyz,tag=cn-blog # 叶泯希
+$site=blog.ytmc.fun,tag=cn-blog # 一桐のBlog
+$site=evan.xin,tag=cn-blog # Evan
+$site=pt2mu.top,tag=cn-blog # 假装看风景
+$site=voidking.com,tag=cn-blog # 好好学习的郝
+$site=yvling.cn,tag=cn-blog # 喻灵的博客
+$site=erl.im,tag=cn-blog # 叶夕青兮
+$site=blog.zhilu.cyou,tag=cn-blog # 纸鹿摸鱼处
+$site=cuipengfei.me,tag=cn-blog # 崔鹏飞的blog
+$site=yuqiqin.me,tag=cn-blog # 通灵卡片
+$site=forcheetah.github.io,tag=cn-blog # 暮冬Z羡慕的博客
+$site=bolaxious.fun,tag=cn-blog # Bolaxious 的小站
+$site=kangaroogao.com,tag=cn-blog # Maohang Gao's Blog
+$site=blog.mountaye.com,tag=cn-blog # 阿掖山·博客
+$site=blog.waistu.com,tag=cn-blog # 二歪同学
+$site=cxy0714.github.io,tag=cn-blog # 陈星宇的主页
+$site=blog.liushen.fun,tag=cn-blog # 清羽飞扬
+$site=peter267.github.io,tag=cn-blog # Peter267
+$site=blog.huan99.com,tag=cn-blog # Huan's Blog
+$site=blog.cugxuan.cn,tag=cn-blog # 泫言
+$site=blog.frwalker.top,tag=cn-blog # FrWalker's Blog
+$site=blog.sunmkt.uk,tag=cn-blog # Sunset 的重构博客
+$site=flowable.me,tag=cn-blog # Flowable中文博客
+$site=cvzoo.cn,tag=cn-blog # 顺毛师之家
+$site=home.yesord.top,tag=cn-blog # Rolenx
+$site=writings.sh,tag=cn-blog # 春水煎茶
+$site=kekkj123.github.io,tag=cn-blog # KEKKJ BLOG
+$site=yysuni.com,tag=cn-blog # Suni Blog
+$site=blog.s22y.moe,tag=cn-blog # s22y
+$site=xuexc.cn,tag=cn-blog # 疯子的天空
+$site=fylsen.com,tag=cn-blog # 别年
+$site=blog.millya.top,tag=cn-blog # 冰屋
+$site=vvhan.com,tag=cn-blog # 韩小韩博客
+$site=jiangcl.com,tag=cn-blog # 蒙需
+$site=zaunist.com,tag=cn-blog # 阿杰鲁的自留地
+$site=runzhliu.cn,tag=cn-blog # runzhliu的容器笔记
+$site=fallzhang.top,tag=cn-blog # Fall's Blog
+$site=yolo.blue,tag=cn-blog # YOLO
+$site=ccgxk.com,tag=cn-blog # 独元殇
+$site=hfwas.tech,tag=cn-blog # HFwas
+$site=bducds.de,tag=cn-blog # BudNote
+$site=dogeas.club,tag=cn-blog # Golden Territory金色疆域
+$site=zheep.top,tag=cn-blog # 云端的解构者
+$site=blog.goodboyboy.top,tag=cn-blog # GoodBoyboy 's Blog
+$site=pengs.top,tag=cn-blog # Peng's Blog
+$site=glowisle.me,tag=cn-blog # 映屿
+$site=dailyminz.org,tag=cn-blog # DailyMinz
+$site=blog.watermelonabc.top,tag=cn-blog # Watermelonabc的Blog
+$site=unixetc.com,tag=cn-blog # unixetc
+$site=blog.0xd00.com,tag=cn-blog # 0xd00's blog
+$site=brimflow.xyz,tag=cn-blog # 天际尽头 - Brimflow 的个人博客
+$site=changsun.work,tag=cn-blog # 硅上观道的个人博客
+$site=blog.fuxieyi.top,tag=cn-blog # Shine的AI博客
+$site=blog.nocp.space,tag=cn-blog # NBlog
+$site=citydatum.cn,tag=cn-blog # 橙树志
+$site=haomwei.com,tag=cn-blog # 屠·城
+$site=xszn.org,tag=cn-blog # 行书指南
+$site=xchere.xyz,tag=cn-blog # 叉息的空中咖啡馆
+$site=mingnify.com,tag=cn-blog # 明立非(Mingnify)的博客
+$site=tans.fun,tag=cn-blog # TansBlog
+$site=kevintan.pro,tag=cn-blog # Kevin's Blog
+$site=lamber-maybe.com,tag=cn-blog # Lamber的博客
+$site=jiashejianyan.com,tag=cn-blog # 假设检验
+$site=iconpik.com,tag=cn-blog # 王圆圆
+$site=blog.beltfish.cn,tag=cn-blog # 带鱼Blog
+$site=iluc.cn,tag=cn-blog # 涵哲子居
+$site=supergrey.bearblog.dev,tag=cn-blog # SuperGrey的笔记本
+$site=xingwangzhe.fun,tag=cn-blog # 姓王者的博客
+$site=bookvision7.com,tag=cn-blog # 书远见
+$site=ashlord.com,tag=cn-blog # solaireh3
+$site=sumi233.top,tag=cn-blog # 酥米的小站
+$site=xieyi.org,tag=cn-blog # 謝懿Shine©的AI博客
+$site=yt-blog.top,tag=cn-blog # Fgaoxing的博客
+$site=fuwari.oh1.top,tag=cn-blog # yCENzh's Blog
+$site=krjojo.com,tag=cn-blog # 手里有只毛毛虫
+$site=changchen.me,tag=cn-blog # Henry Z's blog
+$site=fenglielie.top,tag=cn-blog # fenglielie
+$site=zelikk.blogspot.com,tag=cn-blog # ICDYCT我能你也行
+$site=naiwenel.com,tag=cn-blog # 小涵Naiwenel
+$site=blog.52013120.xyz,tag=cn-blog # 繁星点点
+$site=paddysun.top,tag=cn-blog # Under the Sun with Paddy
+$site=argovict.asia,tag=cn-blog # ArgoVICT's blog
+$site=blog.hehouhui.cn,tag=cn-blog # Honesty
+$site=hankmo.com,tag=cn-blog # 墨寒轩
+$site=gui-ying233.github.io,tag=cn-blog # 鬼影的基地 - 鬼影233
+$site=blog.zhecydn.asia,tag=cn-blog # zhecydn的博客站
+$site=blog.kayro.cn,tag=cn-blog # 敖苛记
+$site=haydenbi.com,tag=cn-blog # HaydenBi
+$site=blog.elykia.cn,tag=cn-blog # 致以无瑕之人
+$site=blog.lyujp.com,tag=cn-blog # 闪电的自留地
+$site=cheng.st,tag=cn-blog # S T C H E N G
+$site=luenci.com,tag=cn-blog # Luenci的技术博客
+$site=blog.giserlab.cn,tag=cn-blog # GISerLab 地理空间
+$site=rokcso.com,tag=cn-blog # Rokcso's Blog
+$site=whyya.xyz,tag=cn-blog # 小陶持续精进
+$site=uwillno.com,tag=cn-blog # UWillno's Blog
+$site=ventuss.xyz,tag=cn-blog # ventuss
+$site=oxue.de,tag=cn-blog # 傲雪の
+$site=blog.algieba12.cn,tag=cn-blog # 阿尔的代码屋
+$site=wklken.me,tag=cn-blog # wklken
+$site=maonie.top,tag=cn-blog # 猫涅的技术博客
+$site=yourlai.com,tag=cn-blog # Yourlai's Blog
+$site=jaketao.com,tag=cn-blog # Jake Blog
+$site=boboxy.github.io,tag=cn-blog # Yibo's Blog
+$site=blog.abb00717.com,tag=cn-blog # ABB00717's Blog
+$site=blog.giveanornot.com,tag=cn-blog # 資工小廢物 - JN
+$site=jeremysong.cn,tag=cn-blog # 技术人的一亩田
+$site=liu-guo.com,tag=cn-blog # 刘果的小站
+$site=fivsevn.com,tag=cn-blog # 五月七日的思考札记
+$site=maki49.github.io,tag=cn-blog # 49th LunaSea
+$site=firenze42.com,tag=cn-blog # Firenze42
+$site=wenix.dev,tag=cn-blog # Wenix's Blog
+$site=ducorn.com,tag=cn-blog # 讀角獸 — 英文來源的矛盾攤開讓你自己判斷
+$site=cssforest.org,tag=cn-blog # CSS森林
+$site=fengcblog.880200.xyz,tag=cn-blog # fengc's Blog
+$site=ftz.is-a.dev,tag=cn-blog # for_the_zero的小站
+$site=blog.moran.im,tag=cn-blog # 廊桥遗梦
+$site=blog.mfwt.top,tag=cn-blog # 枫林灯语
+$site=neilmin.com,tag=cn-blog # Neil的自留地
+$site=coderlock.site,tag=cn-blog # 寒夜雨
+$site=blog.224418.xyz,tag=cn-blog # 傥师妹TangShiMei的小空间
+$site=qingccl.github.io,tag=cn-blog # QingCCL
+$site=futseyi.com,tag=cn-blog # 謝懿Shine
+$site=alxh.page,tag=cn-blog # 所谓空想
+$site=xiangyugongzuoliu.com,tag=cn-blog # 翔宇工作流
+$site=imcry.vip,tag=cn-blog # 初然忆
+$site=makerjackie.com,tag=cn-blog # MakerJackie
+$site=vjo.cc,tag=cn-blog # 刘郎阁
+$site=impatrick.blog,tag=cn-blog # Im Patrick
+$site=cocolia.fun,tag=cn-blog # cocolia小窝
+$site=daolanx.me,tag=cn-blog # Dax
+$site=re.karlbaey.top,tag=cn-blog # Haku
+$site=blog.sayori.org,tag=cn-blog # Amiya的书桌
+$site=guofei.site,tag=cn-blog # 郭飞的笔记
+$site=5al.top,tag=cn-blog # 星觅海的博客
+$site=timoshinoleg-eng.github.io,tag=cn-blog # Oleg's Tech Blog
+$site=1loli.link,tag=cn-blog # MoeBlog
+$site=livk30.github.io,tag=cn-blog # AI学习日记
+$site=bddxg.top,tag=cn-blog # 冰冻大西瓜的博客
+$site=blog.rnm.gv.uy,tag=cn-blog # 毛英龙的数字花园
+$site=blog.notlove.me,tag=cn-blog # BotForge Notes
+$site=weiwo.de5.net,tag=cn-blog # 帷幄
+$site=xuanxue.daliuren.cfd,tag=cn-blog # 命理
+$site=keggin.tech,tag=cn-blog # keggin's blog
+$site=blog.sxizhuo.cn,tag=cn-blog # BWYLBT Blog
+$site=dayzmod.kdns.fr,tag=cn-blog # My Mods
+$site=blog.liua.us.ci,tag=cn-blog # LX blog
+$site=coderlog.net,tag=cn-blog # 码录集（CoderLog）
+$site=rsnocsi.cn,tag=cn-blog # Abyss的小屋
+$site=wmhwiki.cn,tag=cn-blog # wmhwiki
+$site=victor42.eth.limo,tag=cn-blog # Victor42
+$site=fengcan.net,tag=cn-blog # 创见思考
+$site=yangxuan.ai,tag=cn-blog # 杨轩的博客:AI×投资实盘记录
+$site=ryanuo.cc,tag=cn-blog # RYANUO的博客
+$site=momb.top,tag=cn-blog # MOMB闲谈
+$site=blog.hudd.cn,tag=cn-blog # 胡东东博客
+$site=monkeyke.com,tag=cn-blog # 猿客随笔
+$site=zhanggeer.net,tag=cn-blog # 戈壁有耳
+$site=blog.leesaitool.com,tag=cn-blog # Arthur's Review
+$site=blog.mcenahle.page,tag=cn-blog # 梅之夏
+$site=imsuk.cn,tag=cn-blog # SukのBlog
+$site=ranchotao.com,tag=cn-blog # 兰澈
+$site=feifun.cn,tag=cn-blog # Fei's Tours and Tales
+$site=blog.liao-ke.com,tag=cn-blog # LiaoKe的博客
+$site=blog.dort.me,tag=cn-blog # Dort 的博客
+$site=dyy.nianmo.top,tag=cn-blog # 捻墨运营笔记
+$site=tangzhipeng.cn,tag=cn-blog # 未曾见过的山与海
+$site=liuqi.cc,tag=cn-blog # 67的博客
+$site=datashare-duo.github.io,tag=cn-blog # DataShare 数据人阿多
+$site=zooyoo.top,tag=cn-blog # 热衷于的博客
+$site=fravilion.top,tag=cn-blog # 楼船INKFLAKE
+$site=blog.cloverta.top,tag=cn-blog # 三叶的博客
+$site=libuyan.top,tag=cn-blog # 李不言的博客
+$site=blog.zopiya.com,tag=cn-blog # 仲平 · 文辑
+$site=moyuin.top,tag=cn-blog # Moyuin's Blog
+$site=changyo.pages.dev,tag=cn-blog # ChangYo's Blog
+$site=xbstack.com,tag=cn-blog # XBSTACK
+$site=zirui.wang,tag=cn-blog # WangZR's Blog
+$site=blog.movcloud.xyz,tag=cn-blog # Sanmussh Blog
+$site=sagasu.art,tag=cn-blog # Sagasu
+$site=ranjl.cn,tag=cn-blog # 冉江龙的个人空间
+$site=samadhi.blog,tag=cn-blog # Samadhi — 關於我，未完的筆記
+$site=blog.gis2all.top,tag=cn-blog # 知行（gis2all）
+$site=shawnxie.top,tag=cn-blog # 肖恩聊技术
+$site=white-ceiling.bearblog.dev,tag=cn-blog # 鵝庵筆記
+$site=pengline.cn,tag=cn-blog # 余一叶知秋尽
+$site=helpoke.com,tag=cn-blog # 小助点
+$site=blog.waterfish.ren,tag=cn-blog # 水鱼博客
+$site=tomorin.cyou,tag=cn-blog # 0x7c14'blog
+$site=yueqi1sama.github.io,tag=cn-blog # 狐莘月柒的博客
+$site=zicq.com,tag=cn-blog # 智客
+$site=auvetu.com,tag=cn-blog # 云海札记
+$site=notes.yachiyo.im,tag=cn-blog # AI Notes
+$site=zhangluyao.com,tag=cn-blog # Luyao Zhang
+$site=blog.chiyo.uk,tag=cn-blog # 空と海
+$site=cavill.site,tag=cn-blog # 栖迟处
+$site=chenhe.me,tag=cn-blog # Chenhe
+$site=shuzhi.zone,tag=cn-blog # shuzhi.zone
+$site=caiguoyu.cn,tag=cn-blog # 菜鸟的小站
+$site=echovic.com,tag=cn-blog # 青雲的博客
+$site=yilinhut.net,tag=cn-blog # 随轩
+$site=thefox.work,tag=cn-blog # pious fox
+$site=leonxie.cn,tag=cn-blog # Leonxieの小窝
+$site=chenbozheng.com,tag=cn-blog # 伯正博客
+$site=tianxingleo.top,tag=cn-blog # tianxingleo的blog
+$site=zanian.vip,tag=cn-blog # 撕心砸念
+$site=tiger.work,tag=cn-blog # 虎行独语
+$site=yijile.com,tag=cn-blog # 一极乐博客
+$site=kexue.fm,tag=cn-blog # 科学空间
+$site=yigechengzi.com,tag=cn-blog # 一个橙子pro
+$site=yufree.cn,tag=cn-blog # 于淼
+$site=blog.laisky.com,tag=cn-blog # Laisky's Blog
+$site=alpha2016.github.io,tag=cn-blog # 何晓东的博客
+$site=madneal.com,tag=cn-blog # Neal 的博客
+$site=blog.naibabiji.com,tag=cn-blog # 奶爸建站笔记
+$site=crossoverjie.top,tag=cn-blog # crossoverJie's Blog
+$site=kn007.net,tag=cn-blog # kn007的个人博客
+$site=yachen.com,tag=cn-blog # Yachen's Blog
+$site=cbc688.com,tag=cn-blog # CRIVU
+$site=blog.dumogu.top,tag=cn-blog # 23朵毒蘑菇
+$site=song.al,tag=cn-blog # Simon's Blog
+$site=blog.solazy.me,tag=cn-blog # solazy
+$site=shudao.wang,tag=cn-blog # Indie Dev Weekly
+$site=weekly.tw93.fun,tag=cn-blog # Tw93 潮流周刊
+$site=ftium4.com,tag=cn-blog # 龙爪槐守望者
+$site=guozh.net,tag=cn-blog # 老郭种树
+$site=moonvy.com,tag=cn-blog # 月球背面・Moonvy
+$site=ethanwong.page,tag=cn-blog # Ethan's Homepage
+$site=tyingknots.net,tag=cn-blog # 结绳志 Tying Knots
+$site=wangyurui.com,tag=cn-blog # 太隐
+$site=haikebang.com,tag=cn-blog # 骇客邦
+$site=yindongliang.com,tag=cn-blog # LYon's Blog
+$site=moyu.blog,tag=cn-blog # 摸鱼小窝
+$site=nuan1145.eu.cc,tag=cn-blog # 暖暖の小窝
+$site=popsite.cn,tag=cn-blog # 大江小浪
+$site=shuijingwanwq.com,tag=cn-blog # 永夜
+$site=varzy.me,tag=cn-blog # 贼歪
+$site=superdaniel.cn,tag=cn-blog # Daniel的博客
+$site=gaoyu.me,tag=cn-blog # Yu Gao's Blog
+$site=blog.august.hk,tag=cn-blog # August's Blog
+$site=blog.moatkon.com,tag=cn-blog # Moatkon's Blog
+$site=myloveiscool.com,tag=cn-blog # My love is cool
+$site=cubxxw.com,tag=cn-blog # Xinwei's Blog
+$site=imbailey.cn,tag=cn-blog # Bailey's Blog
+$site=hencte.top,tag=cn-blog # 亦幸小阁
+$site=elliothu.me,tag=cn-blog # Elliot's Notes
+$site=kokorotsuki.com,tag=cn-blog # Rei's Commissioned Notebook
+$site=anymesgs.com,tag=cn-blog # 听说了吗？· AI 解读站
+$site=canyuda.top,tag=cn-blog # 灿若繁星
+$site=u1-lab.xiaoxia.io,tag=cn-blog # Tony's Lab
+$site=2019527.xyz,tag=cn-blog # 王志满律师个人博客
+$site=blog.xiaohanys.top,tag=cn-blog # 晓光的个人博客
+$site=blog.qizhen.xyz,tag=cn-blog # 凡人琐忆
+$site=blog.twomelon.com,tag=cn-blog # 瓜瓜的博客
+$site=gim.ink,tag=cn-blog # Gim's Ink
+$site=yujianrx.top,tag=cn-blog # 预见之旅
+$site=peagothedreamer.github.io,tag=cn-blog # peago · 空想家
+$site=atin.asia,tag=cn-blog # atin的个人小站
+$site=coffeebook.de5.net,tag=cn-blog # 元婴强者的红尘炼心路
+$site=zzhx.cc,tag=cn-blog # ZZHX's Website
+$site=warpnav.com,tag=cn-blog # WarpBlog · WarpNav 曲速导航
+$site=aizhiz.com,tag=cn-blog # 人工智障研究所
+$site=kzzxisgod.top,tag=cn-blog # 空舟自许
+$site=yrqspace.github.io,tag=cn-blog # 爱玩win11的me
+$site=shilongzai.com,tag=cn-blog # 石龙仔文库
+$site=mukunjin.com,tag=cn-blog # MukunJin
+$site=kkuk.dev,tag=cn-blog # chenfeng
+$site=blog.wordtk.com,tag=cn-blog # 猫窝博客 · Java / MySQL / Linux ops notes
+$site=pre-core.github.io,tag=cn-blog # 前核的博客
+$site=koimsurai.com,tag=cn-blog # 宙と木 - 一個寫代碼的人，偶爾造點東西
+$site=legacyvps.com,tag=cn-blog # 传家宝VPS - VPS 测评、库存价格监控与建站教程
+$site=yezhaner.net,tag=cn-blog # 夜旅者
+$site=yishuai.wang,tag=cn-blog # Yishuai · 作品、文字与日常
+$site=idaju.github.io,tag=cn-blog # 橘记
+$site=surfing.salty.vip,tag=cn-blog # Surfing（Robin Min）
+$site=hjr-ovo.github.io,tag=cn-blog # Hjr-ovo的博客
+$site=justgoidea.com,tag=cn-blog # JustGoIdea
+$site=koukyo.site,tag=cn-blog # koukyo.
+$site=wusanle.fun,tag=cn-blog # 雾散了
+$site=h89.cn,tag=cn-blog # 清霜之辰
+$site=blog.fufu520.cn,tag=cn-blog # fufuの小窝
+$site=mizore.blog,tag=cn-blog # mizore / notes
+$site=lookpx.com,tag=cn-blog # 影集·定格万物
+$site=zhuzihan.com,tag=cn-blog # SIMON BLOG
+$site=boris1993.com,tag=cn-blog # Code Life
+$site=deanchen.me,tag=cn-blog # Dean Chen
