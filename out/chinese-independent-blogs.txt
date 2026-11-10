@@ -1586,3 +1586,9 @@ title: 中文独立博客
 @1*://*.zhuzihan.com/*
 @1*://*.boris1993.com/*
 @1*://*.deanchen.me/*
+@1*://*.exia.de5.net/*
+@1*://*.vioulo.com/*
+@1*://*.opengeo.page/*
+@1*://*.getgiffgaff.com/*
+@1*://*.vpslu.com/*
+@1*://*.jiye.funcun.top/*
