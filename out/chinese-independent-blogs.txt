@@ -1592,3 +1592,4 @@ title: 中文独立博客
 @1*://*.getgiffgaff.com/*
 @1*://*.vpslu.com/*
 @1*://*.jiye.funcun.top/*
+@1*://*.pens.me/*
