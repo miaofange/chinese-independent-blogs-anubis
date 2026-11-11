@@ -636,7 +636,6 @@ title: 中文独立博客
 @1*://*.ednovas.xyz/*
 @1*://*.wentao.org/*
 @1*://*.jiayuehua.com/*
-@1*://*.github.com/*
 @1*://*.qtmuniao.com/*
 @1*://*.xdym11235.com/*
 @1*://*.iamgodot.com/*

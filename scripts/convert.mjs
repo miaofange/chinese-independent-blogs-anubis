@@ -33,15 +33,44 @@ const rows = readFileSync(csvPath, 'utf8')
 const sites = new Map(); // domain -> { name }
 let skipped = 0;
 let dupes = 0;
+let dropped = 0;
+
+// Upstream occasionally lists a platform page (e.g. the blog's own GitHub repo)
+// as the address; hostname extraction would then tag the whole platform and
+// leak onto every search result. Addresses listed here get an explicit
+// replacement, or `null` to drop the entry when the blog has no site of its
+// own. Keys are "host/lowercased-path" without a trailing slash.
+const ADDRESS_OVERRIDES = new Map([
+  // 算法进阶: articles live in GitHub Issues + 公众号「算法进阶」, no
+  // independent site (aialgorithm.github.io is 404), so nothing to tag.
+  ['github.com/aialgorithm/blog', null],
+]);
+
+const addrKey = (addr) => {
+  try {
+    const u = new URL(addr);
+    return (
+      u.hostname.replace(/^www\./, '').toLowerCase() +
+      u.pathname.replace(/\/+$/, '').toLowerCase()
+    );
+  } catch {
+    return null;
+  }
+};
 
 for (const row of rows) {
   const tokens = row.split(',').map((t) => t.trim());
   const addrIdx = tokens.findIndex((t) => /^https?:\/\//.test(t));
   if (addrIdx <= 0) { skipped++; continue; }
   const name = tokens.slice(0, addrIdx).join(', ').replace(/[!,]+$/, '').trim();
+  const key = addrKey(tokens[addrIdx]);
+  const addr = key !== null && ADDRESS_OVERRIDES.has(key)
+    ? ADDRESS_OVERRIDES.get(key)
+    : tokens[addrIdx];
+  if (!addr) { dropped++; continue; } // overridden platform-only entry
   let host;
   try {
-    host = new URL(tokens[addrIdx]).hostname.replace(/^www\./, '').toLowerCase();
+    host = new URL(addr).hostname.replace(/^www\./, '').toLowerCase();
   } catch {
     skipped++;
     continue;
@@ -81,6 +110,6 @@ mkdirSync(outDir, { recursive: true });
 writeFileSync(join(outDir, 'chinese-independent-blogs.anubis'), anubis.join('\n') + '\n');
 writeFileSync(join(outDir, 'chinese-independent-blogs.txt'), ubl.join('\n') + '\n');
 
-console.log(`unique blogs: ${sites.size} (skipped ${skipped} unparseable rows, merged ${dupes} duplicate domains)`);
+console.log(`unique blogs: ${sites.size} (skipped ${skipped} unparseable rows, merged ${dupes} duplicate domains, dropped ${dropped} by address overrides)`);
 console.log(`wrote ${join(outDir, 'chinese-independent-blogs.anubis')} (${sites.size} rules)`);
 console.log(`wrote ${join(outDir, 'chinese-independent-blogs.txt')} (uBlacklist, ${sites.size} highlight rules)`);
