@@ -1592,3 +1592,6 @@ title: 中文独立博客
 @1*://*.vpslu.com/*
 @1*://*.jiye.funcun.top/*
 @1*://*.pens.me/*
+@1*://*.weiqiang.org/*
+@1*://*.antonailog.com/*
+@1*://*.luoruihuan.top/*
