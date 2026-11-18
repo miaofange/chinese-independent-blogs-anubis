@@ -1595,5 +1595,9 @@ title: 中文独立博客
 @1*://*.weiqiang.org/*
 @1*://*.antonailog.com/*
 @1*://*.luoruihuan.top/*
+@1*://*.blog.acesheep.com/*
+@1*://*.blog.l3zc.com/*
 @1*://*.20131030.xyz/*
 @1*://*.lu.wiki/*
+@1*://*.aisurf.cc/*
+@1*://*.off-beat.cn/*
