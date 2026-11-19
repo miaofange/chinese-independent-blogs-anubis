@@ -1420,7 +1420,7 @@ title: 中文独立博客
 @1*://*.neilmin.com/*
 @1*://*.coderlock.site/*
 @1*://*.blog.224418.xyz/*
-@1*://*.qingccl.github.io/*
+@1*://*.blog.kawabatayasunari.com/*
 @1*://*.futseyi.com/*
 @1*://*.alxh.page/*
 @1*://*.xiangyugongzuoliu.com/*
@@ -1562,7 +1562,7 @@ title: 中文独立博客
 @1*://*.warpnav.com/*
 @1*://*.aizhiz.com/*
 @1*://*.kzzxisgod.top/*
-@1*://*.yrqspace.github.io/*
+@1*://*.tinkerlog.dpdns.org/*
 @1*://*.shilongzai.com/*
 @1*://*.mukunjin.com/*
 @1*://*.kkuk.dev/*
@@ -1592,6 +1592,7 @@ title: 中文独立博客
 @1*://*.vpslu.com/*
 @1*://*.jiye.funcun.top/*
 @1*://*.pens.me/*
+@1*://*.liuz.cn/*
 @1*://*.weiqiang.org/*
 @1*://*.antonailog.com/*
 @1*://*.luoruihuan.top/*
@@ -1601,3 +1602,13 @@ title: 中文独立博客
 @1*://*.lu.wiki/*
 @1*://*.aisurf.cc/*
 @1*://*.off-beat.cn/*
+@1*://*.103000.vip/*
+@1*://*.wznmickey.com/*
+@1*://*.blog.zjackie.ink/*
+@1*://*.io.hk.cn/*
+@1*://*.waynetalk.com/*
+@1*://*.wxhboy.cn/*
+@1*://*.catsmind.cn/*
+@1*://*.blook.lovestoblog.com/*
+@1*://*.ikangjia.cn/*
+@1*://*.tingfeng347.github.io/*
