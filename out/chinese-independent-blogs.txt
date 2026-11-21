@@ -1612,3 +1612,4 @@ title: 中文独立博客
 @1*://*.blook.lovestoblog.com/*
 @1*://*.ikangjia.cn/*
 @1*://*.tingfeng347.github.io/*
+@1*://*.wuwei.fun/*
